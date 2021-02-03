@@ -1,0 +1,205 @@
+,Unnamed: 0,Rank,University,City,State,Tuition,Enrollment,url
+0,0,#1,Princeton University,Princeton,NJ,53890,5422.0,www.princeton.edu
+1,1,#2,Harvard University,Cambridge,MA,54002,6755.0,www.harvard.edu
+2,2,#3,Columbia University,New York,NY,64380,6245.0,https://www.columbia.edu/
+3,3,#4,Massachusetts Institute of Technology,Cambridge,MA,53818,4530.0,web.mit.edu/
+4,4,#4,Yale University,New Haven,CT,57700,6092.0,https://www.yale.edu
+5,5,#6,Stanford University,Stanford,CA,56169,6996.0,www.stanford.edu/
+6,6,#6,University of Chicago,Chicago,IL,59298,6734.0,WWW.UCHICAGO.EDU
+7,7,#8,University of Pennsylvania,Philadelphia,PA,60042,10019.0,www.upenn.edu
+8,8,#9,California Institute of Technology,Pasadena,CA,56862,938.0,www.caltech.edu
+9,9,#9,Johns Hopkins University,Baltimore,MD,57010,6256.0,www.jhu.edu
+10,10,#9,Northwestern University,Evanston,IL,58701,8327.0,www.northwestern.edu
+11,11,#12,Duke University,Durham,NC,60488,6649.0,WWW.DUKE.EDU
+12,12,#13,Dartmouth College,Hanover,NH,59458,4459.0,www.dartmouth.edu
+13,13,#14,Brown University,Providence,RI,60696,7160.0,www.brown.edu
+14,14,#14,Vanderbilt University,Nashville,TN,54158,6886.0,www.vanderbilt.edu
+15,15,#16,Rice University,Houston,TX,51107,3989.0,www.rice.edu
+16,16,#16,Washington University in St. Louis,St. Louis,MO,57386,7822.0,https://wustl.edu/
+17,17,#18,Cornell University,Ithaca,NY,59316,15043.0,www.cornell.edu
+18,18,#19,University of Notre Dame,Notre Dame,IN,57699,8731.0,www.nd.edu
+19,19,#20,University of California--Los Angeles,Los Angeles,CA,42980,31543.0,https://www.ucla.edu/
+20,20,#21,Emory University,Atlanta,GA,53868,7118.0,www.emory.edu
+21,21,#22,University of California--Berkeley,Berkeley,CA,43980,31780.0,https://www.berkeley.edu/
+22,22,#23,Georgetown University,Washington,DC,57928,7513.0,www.georgetown.edu
+23,23,#24,University of Michigan--Ann Arbor,Ann Arbor,MI,52266,31266.0,https://umich.edu/
+24,24,#24,University of Southern California,Los Angeles,CA,59072,20351.0,www.usc.edu/
+25,25,#26,Carnegie Mellon University,Pittsburgh,PA,58924,7022.0,www.cmu.edu/
+26,26,#26,University of Virginia,Charlottesville,VA,52957,17011.0,https://www.virginia.edu/
+27,27,#28,University of North Carolina--Chapel Hill,Chapel Hill,NC,36200,19355.0,https://www.unc.edu/0
+28,28,#28,Wake Forest University,Winston-Salem,NC,57760,5287.0,www.wfu.edu
+29,29,#30,New York University,New York,NY,54880,26981.0,www.nyu.edu
+30,30,#30,Tufts University,Medford,MA,60862,5907.0,https://www.tufts.edu
+31,31,#30,University of California--Santa Barbara,Santa Barbara,CA,44145,23349.0,https://www.ucsb.edu/
+32,32,#30,University of Florida,Gainesville,FL,28658,35405.0,www.ufl.edu/
+33,33,#34,University of Rochester,Rochester,NY,58208,6780.0,https://www.rochester.edu
+34,34,#35,Boston College,Chestnut Hill,MA,60202,9370.0,www.bc.edu
+35,35,#35,Georgia Institute of Technology,Atlanta,GA,33794,15964.0,https://www.gatech.edu/
+36,36,#35,University of California--Irvine,Irvine,CA,43686,30382.0,https://uci.edu/
+37,37,#35,University of California--San Diego,La Jolla,CA,44205,30794.0,https://ucsd.edu/
+38,38,#39,University of California--Davis,Davis,CA,44407,30982.0,https://ucd.edu/
+39,39,#39,William & Mary,Williamsburg,VA,46283,6256.0,https://www.wm.edu
+40,40,#41,Tulane University,New Orleans,LA,58852,6968.0,https://tulane.edu/
+41,41,#42,Boston University,Boston,MA,58072,17983.0,www.bu.edu
+42,42,#42,Brandeis University,Waltham,MA,57615,3688.0,www.brandeis.edu/
+43,43,#42,Case Western Reserve University,Cleveland,OH,52948,5383.0,www.case.edu
+44,44,#42,University of Texas at Austin,Austin,TX,39322,40163.0,https://admissions.utexas.edu/
+45,45,#42,University of Wisconsin--Madison,Madison,WI,38629,33456.0,https://www.wisc.edu/
+46,46,#47,University of Georgia,Athens,GA,31120,29848.0,www.uga.edu
+47,47,#47,University of Illinois--Urbana-Champaign,Champaign,IL,34312,34120.0,https://illinois.edu/
+48,48,#49,Lehigh University,Bethlehem,PA,55260,5178.0,www.lehigh.edu
+49,49,#49,Northeastern University,Boston,MA,55382,14202.0,www.northeastern.edu
+50,50,#49,Pepperdine University,Malibu,CA,58002,3583.0,www.pepperdine.edu/
+51,51,#49,University of Miami,Coral Gables,FL,53682,11307.0,www.miami.edu/
+52,52,#53,Ohio State University--Columbus,Columbus,OH,33501,46818.0,https://www.osu.edu/
+53,53,#53,Purdue University--West Lafayette,West Lafayette,IN,28794,33646.0,https://www.purdue.edu/
+54,54,#53,Rensselaer Polytechnic Institute,Troy,NY,57012,6241.0,www.rpi.edu
+55,55,#53,Santa Clara University,Santa Clara,CA,55629,5694.0,www.scu.edu
+56,56,#53,Villanova University,Villanova,PA,57710,6865.0,www.villanova.edu
+57,57,#58,Florida State University,Tallahassee,FL,21673,33270.0,www.fsu.edu
+58,58,#58,Syracuse University,Syracuse,NY,55926,15275.0,https://www.syracuse.edu
+59,59,#58,University of Maryland--College Park,College Park,MD,36890,30511.0,https://www.umd.edu/
+60,60,#58,University of Pittsburgh--Pittsburgh Campus,Pittsburgh,PA,33706,19200.0,https://www.pitt.edu/
+61,61,#58,University of Washington,Seattle,WA,39461,32046.0,https://www.washington.edu/
+62,62,#63,Pennsylvania State University--University Park,University Park,PA,35514,40639.0,https://www.psu.edu/
+63,63,#63,Rutgers University--New Brunswick,Piscataway,NJ,31785,36158.0,https://newbrunswick.rutgers.edu/
+64,64,#63,University of Connecticut,Storrs,CT,40502,18847.0,uconn.edu/
+65,65,#66,Fordham University,New York,NY,55788,9767.0,www.fordham.edu
+66,66,#66,George Washington University,Washington,DC,58640,12484.0,https://www.gwu.edu
+67,67,#66,Loyola Marymount University,Los Angeles,CA,52577,6778.0,https://www.lmu.edu
+68,68,#66,Southern Methodist University,Dallas,TX,58540,6710.0,www.smu.edu
+69,69,#66,Texas A&M University,College Station,TX,39394,53791.0,https://www.tamu.edu/
+70,70,#66,University of Massachusetts--Amherst,Amherst,MA,35710,24209.0,https://www.umass.edu/
+71,71,#66,University of Minnesota--Twin Cities,Minneapolis,MN,33325,35165.0,https://twin-cities.umn.edu/
+72,72,#66,Worcester Polytechnic Institute,Worcester,MA,53826,4761.0,https://www.wpi.edu/
+73,73,#74,Clemson University,Clemson,SC,38112,20195.0,www.clemson.edu
+74,74,#74,Virginia Tech,Blacksburg,VA,32893,29300.0,https://vt.edu/
+75,75,#76,American University,Washington,DC,51335,8527.0,WWW.AMERICAN.EDU
+76,76,#76,Baylor University,Waco,TX,47364,14108.0,www.baylor.edu
+77,77,#76,Indiana University--Bloomington,Bloomington,IN,37600,33084.0,https://www.indiana.edu/
+78,78,#76,Yeshiva University,New York,NY,46475,2038.0,www.yu.edu
+79,79,#80,Brigham Young University--Provo,Provo,UT,5970,31292.0,https://www.byu.edu/
+80,80,#80,Gonzaga University,Spokane,WA,44920,5238.0,https://www.gonzaga.edu
+81,81,#80,Howard University,Washington,DC,28440,6526.0,www.howard.edu
+82,82,#80,Michigan State University,East Lansing,MI,39766,39176.0,https://www.msu.edu
+83,83,#80,North Carolina State University,Raleigh,NC,29220,25973.0,https://www.ncsu.edu/
+84,84,#80,Stevens Institute of Technology,Hoboken,NJ,55952,3487.0,www.stevens.edu
+85,85,#80,Texas Christian University,Fort Worth,TX,51660,9474.0,www.tcu.edu/
+86,86,#80,University of Denver,Denver,CO,53775,5774.0,www.du.edu
+87,87,#88,Binghamton University--SUNY,Binghamton,NY,27884,14165.0,https://www.binghamton.edu/
+88,88,#88,Colorado School of Mines,Golden,CO,39800,5154.0,www.mines.edu
+89,89,#88,Elon University,Elon,NC,37921,6277.0,www.elon.edu
+90,90,#88,Marquette University,Milwaukee,WI,45666,8515.0,www.marquette.edu
+91,91,#88,Stony Brook University--SUNY,Stony Brook,NY,28200,17909.0,https://www.stonybrook.edu/
+92,92,#88,University at Buffalo--SUNY,Buffalo,NY,28194,21921.0,http://www.buffalo.edu/
+93,93,#88,University of California--Riverside,Riverside,CA,43613,22055.0,https://www.ucr.edu/
+94,94,#88,University of Iowa,Iowa City,IA,31568,23482.0,www.uiowa.edu
+95,95,#88,University of San Diego,San Diego,CA,52864,5919.0,www.sandiego.edu
+96,96,#97,Auburn University,Auburn,AL,31956,24594.0,www.auburn.edu
+97,97,#97,University of Arizona,Tucson,AZ,36738,35801.0,https://www.arizona.edu
+98,98,#97,University of California--Merced,Merced,CA,43292,8151.0,https://www.ucmerced.edu/
+99,99,#97,University of California--Santa Cruz,Santa Cruz,CA,43808,17517.0,https://www.ucsc.edu/
+100,100,#97,University of Delaware,Newark,DE,35842,18766.0,www.udel.edu/
+101,101,#97,University of Utah,Salt Lake City,UT,30132,24485.0,www.utah.edu
+102,102,#103,Arizona State University--Tempe,Tempe,AZ,29428,44461.0,https://www.asu.edu/
+103,103,#103,Clark University,Worcester,MA,48602,2349.0,www.clarku.edu
+104,104,#103,Miami University--Oxford,Oxford,OH,34727,17246.0,https://www.miamioh.edu/
+105,105,#103,Saint Louis University,St. Louis,MO,47124,7217.0,www.slu.edu
+106,106,#103,Temple University,Philadelphia,PA,34049,28726.0,www.temple.edu
+107,107,#103,University of Colorado Boulder,Boulder,CO,38284,31101.0,www.colorado.edu
+108,108,#103,University of Oregon,Eugene,OR,37728,18888.0,https://www.uoregon.edu
+109,109,#103,University of San Francisco,San Francisco,CA,52482,6577.0,https://www.usfca.edu
+110,110,#103,University of South Florida,Tampa,FL,17324,32681.0,https://www.usf.edu/
+111,111,#112,Creighton University,Omaha,NE,43018,4472.0,https://www.creighton.edu
+112,112,#112,Loyola University Chicago,Chicago,IL,46898,12240.0,https://www.luc.edu
+113,113,#112,Rochester Institute of Technology,Rochester,NY,51240,13313.0,www.rit.edu/
+114,114,#112,University of Illinois--Chicago,Chicago,IL,29358,21641.0,https://www.uic.edu/
+115,115,#112,University of La Verne,La Verne,CA,45850,2509.0,www.laverne.edu/
+116,116,#112,University of Tennessee,Knoxville,TN,31454,23290.0,https://www.utk.edu/
+117,117,#118,Iowa State University,Ames,IA,24508,28294.0,www.iastate.edu
+118,118,#118,New Jersey Institute of Technology,Newark,NJ,33386,8794.0,www.njit.edu/
+119,119,#118,Rutgers University--Newark,Newark,NJ,31284,9319.0,https://www.newark.rutgers.edu/
+120,120,#118,SUNY College of Environmental Science and Forestry,Syracuse,NY,19125,1812.0,www.esf.edu
+121,121,#118,University of South Carolina,Columbia,SC,33928,27502.0,https://sc.edu/
+122,122,#118,University of Vermont,Burlington,VT,43950,11443.0,www.uvm.edu
+123,123,#124,Chapman University,Orange,CA,54924,7505.0,https://www.chapman.edu
+124,124,#124,Clarkson University,Potsdam,NY,52724,3081.0,https://www.clarkson.edu
+125,125,#124,DePaul University,Chicago,IL,41202,14214.0,https://www.depaul.edu
+126,126,#124,Drake University,Des Moines,IA,44366,2954.0,www.drake.edu
+127,127,#124,Gallaudet University,Washington,DC,17038,1075.0,www.gallaudet.edu
+128,128,#124,Illinois Institute of Technology,Chicago,IL,50490,3144.0,web.iit.edu/
+129,129,#124,Seattle University,Seattle,WA,48390,4700.0,www.seattleu.edu
+130,130,#124,University of Kansas,Lawrence,KS,28034,19667.0,https://ku.edu
+131,131,#124,University of Missouri,Columbia,MO,29005,22616.0,https://missouri.edu/
+132,132,#133,Drexel University,Philadelphia,PA,56238,15346.0,https://drexel.edu
+133,133,#133,The New School,New York,NY,50954,7451.0,https://www.newschool.edu/
+134,134,#133,Seton Hall University,South Orange,NJ,45290,6102.0,www.shu.edu/
+135,135,#133,Simmons University,Boston,MA,43316,1777.0,www.simmons.edu
+136,136,#133,University of Dayton,Dayton,OH,44890,8483.0,https://udayton.edu
+137,137,#133,University of Kentucky,Lexington,KY,31294,22236.0,www.uky.edu
+138,138,#133,University of Nebraska--Lincoln,Lincoln,NE,26820,20478.0,https://www.unl.edu/
+139,139,#133,University of Oklahoma,Norman,OK,27068,21768.0,https://www.ou.edu/
+140,140,#133,University of St. Thomas (MN),St. Paul,MN,45780,6402.0,https://www.stthomas.edu/
+141,141,#133,University of the Pacific,Stockton,CA,51094,3640.0,www.pacific.edu
+142,142,#143,The Catholic University of America,Washington,DC,49416,3279.0,https://www.catholic.edu
+143,143,#143,Duquesne University,Pittsburgh,PA,41892,5839.0,www.duq.edu
+144,144,#143,George Mason University,Fairfax,VA,36474,26662.0,https://www2.gmu.edu/
+145,145,#143,Samford University,Birmingham,AL,34198,3591.0,www.samford.edu
+146,146,#143,San Diego State University,San Diego,CA,19600,30612.0,www.sdsu.edu
+147,147,#143,University of Alabama,Tuscaloosa,AL,31090,32795.0,https://www.ua.edu/
+148,148,#143,University of Cincinnati,Cincinnati,OH,27472,28376.0,https://www.uc.edu/
+149,149,#143,University of New Hampshire,Durham,NH,36278,12202.0,https://unh.edu/
+150,150,#143,University of Texas at Dallas,Richardson,TX,38970,20994.0,https://www.utdallas.edu/
+151,151,#143,University of Tulsa,Tulsa,OK,43490,3276.0,https://utulsa.edu
+152,152,#153,Colorado State University,Fort Collins,CO,31540,26559.0,https://www.colostate.edu/
+153,153,#153,Louisiana State University--Baton Rouge,Baton Rouge,LA,28639,25826.0,https://www.lsu.edu/
+154,154,#153,Michigan Technological University,Houghton,MI,36738,5764.0,https://www.mtu.edu
+155,155,#153,Oregon State University,Corvallis,OR,32357,26247.0,https://oregonstate.edu
+156,156,#153,Quinnipiac University,Hamden,CT,49280,,www.qu.edu
+157,157,#153,Rutgers University--Camden,Camden,NJ,31113,5739.0,https://camden.rutgers.edu/new/
+158,158,#153,University of Alabama at Birmingham,Birmingham,AL,25380,13836.0,https://www.uab.edu
+159,159,#160,Belmont University,Nashville,TN,37030,6808.0,www.belmont.edu
+160,160,#160,Hofstra University,Hempstead,NY,47510,6498.0,www.hofstra.edu
+161,161,#160,Mercer University,Macon,GA,37808,4865.0,https://www.mercer.edu/
+162,162,#160,University at Albany--SUNY,Albany,NY,27826,13286.0,https://www.albany.edu/
+163,163,#160,University of Arkansas,Fayetteville,AR,25872,23025.0,https://www.uark.edu
+164,164,#160,University of Central Florida,Orlando,FL,22467,59483.0,www.ucf.edu/
+165,165,#160,University of Maryland--Baltimore County,Baltimore,MD,27662,11060.0,https://www.umbc.edu/
+166,166,#160,University of Mississippi,University,MS,25090,17150.0,www.olemiss.edu
+167,167,#160,Valparaiso University,Valparaiso,IN,43286,3009.0,https://www.valpo.edu
+168,168,#160,Virginia Commonwealth University,Richmond,VA,35358,22837.0,https://www.vcu.edu/
+169,169,#170,Adelphi University,Garden City,NY,41435,5360.0,www.adelphi.edu/
+170,170,#170,Kansas State University,Manhattan,KS,26196,17210.0,www.k-state.edu
+171,171,#170,St. John's University (NY),Queens,NY,44760,17088.0,https://www.stjohns.edu/
+172,172,#170,University of Hawaii--Manoa,Honolulu,HI,34218,12631.0,https://manoa.hawaii.edu/
+173,173,#170,University of Idaho,Moscow,ID,27540,9392.0,www.uidaho.edu
+174,174,#170,University of Rhode Island,Kingston,RI,32578,13790.0,web.uri.edu/
+175,175,#176,CUNY--City College,New York,NY,18475,,https://www.ccny.cuny.edu/
+176,176,#176,Missouri University of Science and Technology,Rolla,MO,30259,6462.0,https://www.mst.edu/
+177,177,#176,Montclair State University,Montclair,NJ,21031,16687.0,www.montclair.edu
+178,178,#176,Ohio University,Athens,OH,22406,20644.0,https://www.ohio.edu/
+179,179,#176,St. John Fisher College,Rochester,NY,35150,2665.0,https://www.sjfc.edu/
+180,180,#176,Thomas Jefferson University,Philadelphia,PA,41715,3734.0,www.jefferson.edu
+181,181,#176,University of Houston,Houston,TX,26839,38597.0,www.uh.edu/
+182,182,#176,University of Louisville,Louisville,KY,27954,15860.0,www.louisville.edu
+183,183,#176,University of Massachusetts--Lowell,Lowell,MA,33624,14172.0,https://www.uml.edu/
+184,184,#176,University of St. Joseph,West Hartford,CT,40286,904.0,https://www.usj.edu/
+185,185,#176,Washington State University,Pullman,WA,27113,26062.0,wsu.edu/
+186,186,#187,Biola University,La Mirada,CA,41976,4043.0,https://www.biola.edu
+187,187,#187,Chatham University,Pittsburgh,PA,39902,1408.0,www.chatham.edu
+188,188,#187,Florida International University,Miami,FL,18964,49004.0,www.fiu.edu
+189,189,#187,Oklahoma State University,Stillwater,OK,24539,20024.0,https://go.okstate.edu/
+190,190,#187,Pacific University,Forest Grove,OR,48260,1864.0,https://www.pacificu.edu
+191,191,#187,Rowan University,Glassboro,NJ,22339,16011.0,https://www.rowan.edu
+192,192,#187,University of Detroit Mercy,Detroit,MI,29416,2745.0,www.udmercy.edu
+193,193,#187,University of New Mexico,Albuquerque,NM,24924,16662.0,https://www.unm.edu/
+194,194,#187,University of North Carolina--Wilmington,Wilmington,NC,21871,14785.0,https://uncw.edu/
+195,195,#196,Bethel University (MN),St. Paul,MN,39030,2799.0,https://www.bethel.edu/
+196,196,#196,California State University--Fresno,Fresno,CA,12781,21462.0,https://www.csufresno.edu/
+197,197,#196,Indiana University-Purdue University--Indianapolis,Indianapolis,IN,31626,21173.0,https://www.iupui.edu/
+198,198,#196,Loyola University New Orleans,New Orleans,LA,42030,3188.0,www.loyno.edu
+199,199,#196,Maryville University of St. Louis,St Louis,MO,28470,4454.0,https://www.maryville.edu/
+200,200,#196,Robert Morris University,Moon Township,PA,32130,3770.0,www.rmu.edu
+201,201,#196,Seattle Pacific University,Seattle,WA,47244,2717.0,https://spu.edu
+202,202,#196,Towson University,Towson,MD,25508,19619.0,www.towson.edu
+203,203,#196,University of Puerto Rico--Rio Piedras,Rio Piedras,PR,6162,,https://www.uprrp.edu/

@@ -1,0 +1,257 @@
+[
+    {
+      "State": "Alabama",
+      "expense": 53908.2,
+      "id": "01"
+    },
+    {
+      "State": "Alaska",
+      "expense": 77184,
+      "id": "02"
+    },
+    {
+      "State": "Arizona",
+      "expense": 61083.9,
+      "id": "04"
+    },
+    {
+      "State": "Arkansas",
+      "expense": 52943.4,
+      "id": "05"
+    },
+    {
+      "State": "California",
+      "expense": 83515.5,
+      "id": "06"
+    },
+    {
+      "State": "Colorado",
+      "expense": 63315,
+      "id": "08"
+    },
+    {
+      "State": "Connecticut",
+      "expense": 75435.3,
+      "id": "09"
+    },
+    {
+      "State": "Delaware",
+      "expense": 65063.7,
+      "id": 10
+    },
+    {
+      "State": "District of Columbia",
+      "expense": 97143.3,
+      "id": 11
+    },
+    {
+      "State": "Florida",
+      "expense": 59697,
+      "id": 12
+    },
+    {
+      "State": "Georgia",
+      "expense": 53908.2,
+      "id": 13
+    },
+    {
+      "State": "Hawaii",
+      "expense": 118368.9,
+      "id": 15
+    },
+    {
+      "State": "Idaho",
+      "expense": 56742.3,
+      "id": 16
+    },
+    {
+      "State": "Illinois",
+      "expense": 57767.4,
+      "id": 17
+    },
+    {
+      "State": "Indiana",
+      "expense": 54511.2,
+      "id": 18
+    },
+    {
+      "State": "Iowa",
+      "expense": 55536.3,
+      "id": 19
+    },
+    {
+      "State": "Kansas",
+      "expense": 53003.7,
+      "id": 20
+    },
+    {
+      "State": "Kentucky",
+      "expense": 56561.4,
+      "id": 21
+    },
+    {
+      "State": "Louisiana",
+      "expense": 56320.2,
+      "id": 22
+    },
+    {
+      "State": "Maine",
+      "expense": 70068.6,
+      "id": 23
+    },
+    {
+      "State": "Maryland",
+      "expense": 77244.3,
+      "id": 24
+    },
+    {
+      "State": "Massachusetts",
+      "expense": 79957.8,
+      "id": 25
+    },
+    {
+      "State": "Michigan",
+      "expense": 54812.7,
+      "id": 26
+    },
+    {
+      "State": "Minnesota",
+      "expense": 61023.6,
+      "id": 27
+    },
+    {
+      "State": "Mississippi",
+      "expense": 51134.4,
+      "id": 28
+    },
+    {
+      "State": "Missouri",
+      "expense": 53606.7,
+      "id": 29
+    },
+    {
+      "State": "Montana",
+      "expense": 59576.4,
+      "id": 30
+    },
+    {
+      "State": "Nebraska",
+      "expense": 55837.8,
+      "id": 31
+    },
+    {
+      "State": "Nevada",
+      "expense": 65666.7,
+      "id": 32
+    },
+    {
+      "State": "New Hampshire",
+      "expense": 65244.6,
+      "id": 33
+    },
+    {
+      "State": "New Jersey",
+      "expense": 71274.6,
+      "id": 34
+    },
+    {
+      "State": "New Mexico",
+      "expense": 54028.8,
+      "id": 35
+    },
+    {
+      "State": "New York",
+      "expense": 80621.1,
+      "id": 36
+    },
+    {
+      "State": "North Carolina",
+      "expense": 57646.8,
+      "id": 37
+    },
+    {
+      "State": "North Dakota",
+      "expense": 58491,
+      "id": 38
+    },
+    {
+      "State": "Ohio",
+      "expense": 56018.7,
+      "id": 39
+    },
+    {
+      "State": "Oklahoma",
+      "expense": 52340.4,
+      "id": 40
+    },
+    {
+      "State": "Oregon",
+      "expense": 81163.8,
+      "id": 41
+    },
+    {
+      "State": "Pennsylvania",
+      "expense": 61445.7,
+      "id": 42
+    },
+    {
+      "State": "Rhode Island",
+      "expense": 71998.2,
+      "id": 44
+    },
+    {
+      "State": "South Carolina",
+      "expense": 57767.4,
+      "id": 45
+    },
+    {
+      "State": "South Dakota",
+      "expense": 58491,
+      "id": 46
+    },
+    {
+      "State": "Tennessee",
+      "expense": 54390.6,
+      "id": 47
+    },
+    {
+      "State": "Texas",
+      "expense": 55656.9,
+      "id": 48
+    },
+    {
+      "State": "Utah",
+      "expense": 58671.9,
+      "id": 49
+    },
+    {
+      "State": "Vermont",
+      "expense": 69948,
+      "id": 50
+    },
+    {
+      "State": "Virginia",
+      "expense": 61264.8,
+      "id": 51
+    },
+    {
+      "State": "Washington",
+      "expense": 67113.9,
+      "id": 53
+    },
+    {
+      "State": "West Virginia",
+      "expense": 55536.3,
+      "id": 54
+    },
+    {
+      "State": "Wisconsin",
+      "expense": 58068.9,
+      "id": 55
+    },
+    {
+      "State": "Wyoming",
+      "expense": 57526.2,
+      "id": 56
+    }
+   ]

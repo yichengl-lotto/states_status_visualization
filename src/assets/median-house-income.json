@@ -1,0 +1,257 @@
+[
+  {
+    "State": "Alabama",
+    "MedianIncome": "56,200",
+    "id": "01"
+  },
+  {
+    "State": "Alaska",
+    "MedianIncome": "78,394",
+    "id": "02"
+  },
+  {
+    "State": "Arizona",
+    "MedianIncome": "70,674",
+    "id": "04"
+  },
+  {
+    "State": "Arkansas",
+    "MedianIncome": "54,539",
+    "id": "05"
+  },
+  {
+    "State": "California",
+    "MedianIncome": "78,105",
+    "id": "06"
+  },
+  {
+    "State": "Colorado",
+    "MedianIncome": "72,499",
+    "id": "08"
+  },
+  {
+    "State": "Connecticut",
+    "MedianIncome": "87,291",
+    "id": "09"
+  },
+  {
+    "State": "Delaware",
+    "MedianIncome": "74,194",
+    "id": 10
+  },
+  {
+    "State": "District of Columbia",
+    "MedianIncome": "93,111",
+    "id": 11
+  },
+  {
+    "State": "Florida",
+    "MedianIncome": "58,368",
+    "id": 12
+  },
+  {
+    "State": "Georgia",
+    "MedianIncome": "56,628",
+    "id": 13
+  },
+  {
+    "State": "Hawaii",
+    "MedianIncome": "88,006",
+    "id": 15
+  },
+  {
+    "State": "Idaho",
+    "MedianIncome": "65,988",
+    "id": 16
+  },
+  {
+    "State": "Illinois",
+    "MedianIncome": "74,399",
+    "id": 17
+  },
+  {
+    "State": "Indiana",
+    "MedianIncome": "66,693",
+    "id": 18
+  },
+  {
+    "State": "Iowa",
+    "MedianIncome": "66,054",
+    "id": 19
+  },
+  {
+    "State": "Kansas",
+    "MedianIncome": "73,151",
+    "id": 20
+  },
+  {
+    "State": "Kentucky",
+    "MedianIncome": "55,662",
+    "id": 21
+  },
+  {
+    "State": "Louisiana",
+    "MedianIncome": "51,707",
+    "id": 22
+  },
+  {
+    "State": "Maine",
+    "MedianIncome": "66,546",
+    "id": 23
+  },
+  {
+    "State": "Maryland",
+    "MedianIncome": "95,572",
+    "id": 24
+  },
+  {
+    "State": "Massachusetts",
+    "MedianIncome": "87,707",
+    "id": 25
+  },
+  {
+    "State": "Michigan",
+    "MedianIncome": "64,119",
+    "id": 26
+  },
+  {
+    "State": "Minnesota",
+    "MedianIncome": "81,426",
+    "id": 27
+  },
+  {
+    "State": "Mississippi",
+    "MedianIncome": "44,787",
+    "id": 28
+  },
+  {
+    "State": "Missouri",
+    "MedianIncome": "60,597",
+    "id": 29
+  },
+  {
+    "State": "Montana",
+    "MedianIncome": "60,195",
+    "id": 30
+  },
+  {
+    "State": "Nebraska",
+    "MedianIncome": "73,071",
+    "id": 31
+  },
+  {
+    "State": "Nevada",
+    "MedianIncome": "70,906",
+    "id": 32
+  },
+  {
+    "State": "New Hampshire",
+    "MedianIncome": "86,900",
+    "id": 33
+  },
+  {
+    "State": "New Jersey",
+    "MedianIncome": "87,726",
+    "id": 34
+  },
+  {
+    "State": "New Mexico",
+    "MedianIncome": "53,113",
+    "id": 35
+  },
+  {
+    "State": "New York",
+    "MedianIncome": "71,855",
+    "id": 36
+  },
+  {
+    "State": "North Carolina",
+    "MedianIncome": "61,159",
+    "id": 37
+  },
+  {
+    "State": "North Dakota",
+    "MedianIncome": "70,031",
+    "id": 38
+  },
+  {
+    "State": "Ohio",
+    "MedianIncome": "64,663",
+    "id": 39
+  },
+  {
+    "State": "Oklahoma",
+    "MedianIncome": "59,397",
+    "id": 40
+  },
+  {
+    "State": "Oregon",
+    "MedianIncome": "74,413",
+    "id": 41
+  },
+  {
+    "State": "Pennsylvania",
+    "MedianIncome": "70,582",
+    "id": 42
+  },
+  {
+    "State": "Rhode Island",
+    "MedianIncome": "70,151",
+    "id": 44
+  },
+  {
+    "State": "South Carolina",
+    "MedianIncome": "62,028",
+    "id": 45
+  },
+  {
+    "State": "South Dakota",
+    "MedianIncome": "64,255",
+    "id": 46
+  },
+  {
+    "State": "Tennessee",
+    "MedianIncome": "56,627",
+    "id": 47
+  },
+  {
+    "State": "Texas",
+    "MedianIncome": "67,444",
+    "id": 48
+  },
+  {
+    "State": "Utah",
+    "MedianIncome": "84,523",
+    "id": 49
+  },
+  {
+    "State": "Vermont",
+    "MedianIncome": "74,305",
+    "id": 50
+  },
+  {
+    "State": "Virginia",
+    "MedianIncome": "81,313",
+    "id": 51
+  },
+  {
+    "State": "Washington",
+    "MedianIncome": "82,454",
+    "id": 53
+  },
+  {
+    "State": "West Virginia",
+    "MedianIncome": "53,706",
+    "id": 54
+  },
+  {
+    "State": "Wisconsin",
+    "MedianIncome": "67,355",
+    "id": 55
+  },
+  {
+    "State": "Wyoming",
+    "MedianIncome": "65,134",
+    "id": 56
+  }
+]

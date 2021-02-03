@@ -1,0 +1,1304 @@
+[
+ {
+   "name": "Alabama","value":[{
+   "name": "Grocery",
+   "value": 95.1
+ },
+ {
+   "name": "Housing",
+   "value": 70.2
+ },
+ {
+   "name": "Utilities",
+   "value": 103.3
+ },
+ {
+   "name": "Transportation",
+   "value": 92.3
+ },
+ {
+   "name": "Health",
+   "value": 90.4
+ },
+ {
+   "name": "Misc.",
+   "value": 97.5
+ }
+ ]},
+ {
+   "name": "Alaska","value":[{
+   "name": "Grocery",
+   "value": 132.4
+},
+ {
+   "name": "Housing",
+   "value": 134.3
+ },
+ {
+   "name": "Utilities",
+   "value": 159.5
+ },
+ {
+   "name": "Transportation",
+   "value": 117.8
+ },
+ {
+   "name": "Health",
+   "value": 150.9
+ },
+ {
+   "name": "Misc.",
+   "value": 112.8
+ }]},
+ {
+   "name": "Arizona","value":[{
+   "name": "Grocery",
+   "value": 99.4
+ },
+ {
+   "name": "Housing",
+   "value": 102
+ },
+ {
+   "name": "Utilities",
+   "value": 112.3
+ },
+ {
+   "name": "Transportation",
+   "value": 105.9
+ },
+ {
+   "name": "Health",
+   "value": 96.9
+ },
+ {
+   "name": "Misc.",
+   "value": 97.9
+ }]},
+ {
+   "name": "Arkansas","value":[{
+   "name": "Grocery",
+   "value": 90.7
+ },
+ {
+   "name": "Housing",
+   "value": 75.2
+ },
+ {
+   "name": "Utilities",
+   "value": 92.7
+ },
+ {
+   "name": "Transportation",
+   "value": 86.1
+ },
+ {
+   "name": "Health",
+   "value": 86.2
+ },
+ {
+   "name": "Misc.",
+   "value": 95.7
+ }]},
+ {
+   "name": "California","value":[{
+   "name": "Grocery",
+   "value": 117.3
+ },
+ {
+   "name": "Housing",
+   "value": 196.5
+ },
+ {
+   "name": "Utilities",
+   "value": 122.2
+ },
+ {
+   "name": "Transportation",
+   "value": 132.4
+ },
+ {
+   "name": "Health",
+   "value": 112.7
+ },
+ {
+   "name": "Misc.",
+   "value": 110.8
+ }]},
+ {
+   "name": "Colorado","value":[{
+   "name": "Grocery",
+   "value": 99.2
+ },
+ {
+   "name": "Housing",
+   "value": 119.6
+ },
+ {
+   "name": "Utilities",
+   "value": 87.6
+ },
+ {
+   "name": "Transportation",
+   "value": 101.5
+ },
+ {
+   "name": "Health",
+   "value": 103.1
+ },
+ {
+   "name": "Misc.",
+   "value": 101.7
+ }]},
+ {
+   "name": "Connecticut","value":[{
+   "name": "Grocery",
+   "value": 107.7
+ },
+ {
+   "name": "Housing",
+   "value": 142.2
+ },
+ {
+   "name": "Utilities",
+   "value": 132.9
+ },
+ {
+   "name": "Transportation",
+   "value": 112.6
+ },
+ {
+   "name": "Health",
+   "value": 110.5
+ },
+ {
+   "name": "Misc.",
+   "value": 121.6
+ }]},
+ {
+   "name": "Delaware","value":[{
+   "name": "Grocery",
+   "value": 119.9
+ },
+ {
+   "name": "Housing",
+   "value": 100.6
+ },
+ {
+   "name": "Utilities",
+   "value": 94.6
+ },
+ {
+   "name": "Transportation",
+   "value": 103.6
+ },
+ {
+   "name": "Health",
+   "value": 98.6
+ },
+ {
+   "name": "Misc.",
+   "value": 114.7
+ }]},
+ {
+   "name": "District of Columbia","value":[{
+   "name": "Grocery",
+   "value": 115.8
+ },
+ {
+   "name": "Housing",
+   "value": 279.2
+ },
+ {
+   "name": "Utilities",
+   "value": 115.8
+ },
+ {
+   "name": "Transportation",
+   "value": 108
+ },
+ {
+   "name": "Health",
+   "value": 93.7
+ },
+ {
+   "name": "Misc.",
+   "value": 121.3
+ }]},
+ {
+   "name": "Florida","value":[{
+   "name": "Grocery",
+   "value": 104.2
+ },
+ {
+   "name": "Housing",
+   "value": 96.8
+ },
+ {
+   "name": "Utilities",
+   "value": 101.1
+ },
+ {
+   "name": "Transportation",
+   "value": 99.1
+ },
+ {
+   "name": "Health",
+   "value": 97.5
+ },
+ {
+   "name": "Misc.",
+   "value": 98.3
+ }]},
+ {
+   "name": "Georgia","value":[{
+   "name": "Grocery",
+   "value": 99
+ },
+ {
+   "name": "Housing",
+   "value": 71.3
+ },
+ {
+   "name": "Utilities",
+   "value": 91.3
+ },
+ {
+   "name": "Transportation",
+   "value": 97
+ },
+ {
+   "name": "Health",
+   "value": 97.5
+ },
+ {
+   "name": "Misc.",
+   "value": 96.2
+ }]},
+ {
+   "name": "Hawaii","value":[{
+   "name": "Grocery",
+   "value": 167.7
+ },
+ {
+   "name": "Housing",
+   "value": 336.3
+ },
+ {
+   "name": "Utilities",
+   "value": 189.5
+ },
+ {
+   "name": "Transportation",
+   "value": 138.8
+ },
+ {
+   "name": "Health",
+   "value": 117.1
+ },
+ {
+   "name": "Misc.",
+   "value": 125.3
+ }]},
+ {
+   "name": "Idaho","value":[{
+   "name": "Grocery",
+   "value": 92.7
+ },
+ {
+   "name": "Housing",
+   "value": 90.7
+ },
+ {
+   "name": "Utilities",
+   "value": 82.6
+ },
+ {
+   "name": "Transportation",
+   "value": 103.4
+ },
+ {
+   "name": "Health",
+   "value": 95.8
+ },
+ {
+   "name": "Misc.",
+   "value": 97.7
+ }]},
+ {
+   "name": "Illinois","value":[{
+   "name": "Grocery",
+   "value": 97.8
+ },
+ {
+   "name": "Housing",
+   "value": 87
+ },
+ {
+   "name": "Utilities",
+   "value": 96.8
+ },
+ {
+   "name": "Transportation",
+   "value": 107.7
+ },
+ {
+   "name": "Health",
+   "value": 100
+ },
+ {
+   "name": "Misc.",
+   "value": 98.1
+ }]},
+ {
+   "name": "Indiana","value":[{
+   "name": "Grocery",
+   "value": 92.3
+ },
+ {
+   "name": "Housing",
+   "value": 76.5
+ },
+ {
+   "name": "Utilities",
+   "value": 97.5
+ },
+ {
+   "name": "Transportation",
+   "value": 99.4
+ },
+ {
+   "name": "Health",
+   "value": 93.8
+ },
+ {
+   "name": "Misc.",
+   "value": 95.7
+ }]},
+ {
+   "name": "Iowa","value":[{
+   "name": "Grocery",
+   "value": 96.4
+ },
+ {
+   "name": "Housing",
+   "value": 78.3
+ },
+ {
+   "name": "Utilities",
+   "value": 97
+ },
+ {
+   "name": "Transportation",
+   "value": 99.1
+ },
+ {
+   "name": "Health",
+   "value": 101.7
+ },
+ {
+   "name": "Misc.",
+   "value": 96.7
+ }]},
+ {
+   "name": "Kansas","value":[{
+   "name": "Grocery",
+   "value": 92.8
+ },
+ {
+   "name": "Housing",
+   "value": 71.8
+ },
+ {
+   "name": "Utilities",
+   "value": 99.4
+ },
+ {
+   "name": "Transportation",
+   "value": 94.8
+ },
+ {
+   "name": "Health",
+   "value": 98.4
+ },
+ {
+   "name": "Misc.",
+   "value": 92.3
+ }]},
+ {
+   "name": "Kentucky","value":[{
+   "name": "Grocery",
+   "value": 91
+ },
+ {
+   "name": "Housing",
+   "value": 81.6
+ },
+ {
+   "name": "Utilities",
+   "value": 97.3
+ },
+ {
+   "name": "Transportation",
+   "value": 97.9
+ },
+ {
+   "name": "Health",
+   "value": 91.1
+ },
+ {
+   "name": "Misc.",
+   "value": 102.6
+ }]},
+ {
+   "name": "Louisiana","value":[{
+   "name": "Grocery",
+   "value": 97.7
+ },
+ {
+   "name": "Housing",
+   "value": 86.8
+ },
+ {
+   "name": "Utilities",
+   "value": 87.5
+ },
+ {
+   "name": "Transportation",
+   "value": 96.3
+ },
+ {
+   "name": "Health",
+   "value": 97.9
+ },
+ {
+   "name": "Misc.",
+   "value": 97
+ }]},
+ {
+   "name": "Maine","value":[{
+   "name": "Grocery",
+   "value": 104.9
+ },
+ {
+   "name": "Housing",
+   "value": 134.2
+ },
+ {
+   "name": "Utilities",
+   "value": 107.6
+ },
+ {
+   "name": "Transportation",
+   "value": 101.5
+ },
+ {
+   "name": "Health",
+   "value": 114.5
+ },
+ {
+   "name": "Misc.",
+   "value": 113
+ }]},
+ {
+   "name": "Maryland","value":[{
+   "name": "Grocery",
+   "value": 114.6
+ },
+ {
+   "name": "Housing",
+   "value": 180.2
+ },
+ {
+   "name": "Utilities",
+   "value": 108.6
+ },
+ {
+   "name": "Transportation",
+   "value": 107.1
+ },
+ {
+   "name": "Health",
+   "value": 85.7
+ },
+ {
+   "name": "Misc.",
+   "value": 108.9
+ }]},
+ {
+   "name": "Massachusetts","value":[{
+   "name": "Grocery",
+   "value": 114.6
+ },
+ {
+   "name": "Housing",
+   "value": 180.2
+ },
+ {
+   "name": "Utilities",
+   "value": 108.6
+ },
+ {
+   "name": "Transportation",
+   "value": 107.1
+ },
+ {
+   "name": "Health",
+   "value": 85.7
+ },
+ {
+   "name": "Misc.",
+   "value": 108.9
+ }]},
+ {
+   "name": "Michigan","value":[{
+   "name": "Grocery",
+   "value": 114.5
+ },
+ {
+   "name": "Housing",
+   "value": 173.6
+ },
+ {
+   "name": "Utilities",
+   "value": 108.9
+ },
+ {
+   "name": "Transportation",
+   "value": 110.1
+ },
+ {
+   "name": "Health",
+   "value": 122.6
+ },
+ {
+   "name": "Misc.",
+   "value": 121.4
+ }]},
+ {
+   "name": "Minnesota","value":[{
+   "name": "Grocery",
+   "value": 105.5
+ },
+ {
+   "name": "Housing",
+   "value": 89.2
+ },
+ {
+   "name": "Utilities",
+   "value": 98.7
+ },
+ {
+   "name": "Transportation",
+   "value": 100.6
+ },
+ {
+   "name": "Health",
+   "value": 111.6
+ },
+ {
+   "name": "Misc.",
+   "value": 108.4
+ }]},
+ {
+   "name": "Mississippi","value":[{
+   "name": "Grocery",
+   "value": 93.1
+ },
+ {
+   "name": "Housing",
+   "value": 66.7
+ },
+ {
+   "name": "Utilities",
+   "value": 91.8
+ },
+ {
+   "name": "Transportation",
+   "value": 89.9
+ },
+ {
+   "name": "Health",
+   "value": 89
+ },
+ {
+   "name": "Misc.",
+   "value": 92
+ }]},
+ {
+   "name": "Missouri","value":[{
+   "name": "Grocery",
+   "value": 97.6
+ },
+ {
+   "name": "Housing",
+   "value": 71.6
+ },
+ {
+   "name": "Utilities",
+   "value": 97.5
+ },
+ {
+   "name": "Transportation",
+   "value": 93.9
+ },
+ {
+   "name": "Health",
+   "value": 97.6
+ },
+ {
+   "name": "Misc.",
+   "value": 94.3
+ }]},
+ {
+   "name": "Montana","value":[{
+   "name": "Grocery",
+   "value": 101.1
+ },
+ {
+   "name": "Housing",
+   "value": 102
+ },
+ {
+   "name": "Utilities",
+   "value": 86.2
+ },
+ {
+   "name": "Transportation",
+   "value": 94.2
+ },
+ {
+   "name": "Health",
+   "value": 98.2
+ },
+ {
+   "name": "Misc.",
+   "value": 100.1
+ }]},
+ {
+   "name": "Nebraska","value":[{
+   "name": "Grocery",
+   "value": 97.8
+ },
+ {
+   "name": "Housing",
+   "value": 83.7
+ },
+ {
+   "name": "Utilities",
+   "value": 89.5
+ },
+ {
+   "name": "Transportation",
+   "value": 96.1
+ },
+ {
+   "name": "Health",
+   "value": 99.4
+ },
+ {
+   "name": "Misc.",
+   "value": 96.5
+ }]},
+ {
+   "name": "Nevada","value":[{
+   "name": "Grocery",
+   "value": 106.5
+ },
+ {
+   "name": "Housing",
+   "value": 119.2
+ },
+ {
+   "name": "Utilities",
+   "value": 93.3
+ },
+ {
+   "name": "Transportation",
+   "value": 120.3
+ },
+ {
+   "name": "Health",
+   "value": 106.6
+ },
+ {
+   "name": "Misc.",
+   "value": 103.3
+ }]},
+ {
+   "name": "New Hampshire","value":[{
+   "name": "Grocery",
+   "value": 100.4
+ },
+ {
+   "name": "Housing",
+   "value": 110.3
+ },
+ {
+   "name": "Utilities",
+   "value": 114
+ },
+ {
+   "name": "Transportation",
+   "value": 98.2
+ },
+ {
+   "name": "Health",
+   "value": 115
+ },
+ {
+   "name": "Misc.",
+   "value": 109.7
+ }]},
+ {
+   "name": "New Jersey","value":[{
+   "name": "Grocery",
+   "value": 108.2
+ },
+ {
+   "name": "Housing",
+   "value": 149.3
+ },
+ {
+   "name": "Utilities",
+   "value": 98.3
+ },
+ {
+   "name": "Transportation",
+   "value": 107.2
+ },
+ {
+   "name": "Health",
+   "value": 100.2
+ },
+ {
+   "name": "Misc.",
+   "value": 108.5
+ }]},
+ {
+   "name": "New Mexico","value":[{
+   "name": "Grocery",
+   "value": 99.7
+ },
+ {
+   "name": "Housing",
+   "value": 80.4
+ },
+ {
+   "name": "Utilities",
+   "value": 89.9
+ },
+ {
+   "name": "Transportation",
+   "value": 93
+ },
+ {
+   "name": "Health",
+   "value": 98.2
+ },
+ {
+   "name": "Misc.",
+   "value": 90.8
+ }]},
+ {
+   "name": "New York","value":[{
+   "name": "Grocery",
+   "value": 113.4
+ },
+ {
+   "name": "Housing",
+   "value": 197.5
+ },
+ {
+   "name": "Utilities",
+   "value": 102.8
+ },
+ {
+   "name": "Transportation",
+   "value": 105
+ },
+ {
+   "name": "Health",
+   "value": 101.3
+ },
+ {
+   "name": "Misc.",
+   "value": 112
+ }]},
+ {
+   "name": "North Carolina","value":[{
+   "name": "Grocery",
+   "value": 98.4
+ },
+ {
+   "name": "Housing",
+   "value": 84.1
+ },
+ {
+   "name": "Utilities",
+   "value": 99.3
+ },
+ {
+   "name": "Transportation",
+   "value": 94
+ },
+ {
+   "name": "Health",
+   "value": 110.7
+ },
+ {
+   "name": "Misc.",
+   "value": 101.1
+ }]},
+ {
+   "name": "North Dakota","value":[{
+   "name": "Grocery",
+   "value": 103.5
+ },
+ {
+   "name": "Housing",
+   "value": 91.5
+ },
+ {
+   "name": "Utilities",
+   "value": 90.5
+ },
+ {
+   "name": "Transportation",
+   "value": 105.3
+ },
+ {
+   "name": "Health",
+   "value": 112.7
+ },
+ {
+   "name": "Misc.",
+   "value": 96.5
+ }]},
+ {
+   "name": "Ohio","value":[{
+   "name": "Grocery",
+   "value": 98.1
+ },
+ {
+   "name": "Housing",
+   "value": 78
+ },
+ {
+   "name": "Utilities",
+   "value": 90.6
+ },
+ {
+   "name": "Transportation",
+   "value": 102.2
+ },
+ {
+   "name": "Health",
+   "value": 98.6
+ },
+ {
+   "name": "Misc.",
+   "value": 100
+ }]},
+ {
+   "name": "Oklahoma","value":[{
+   "name": "Grocery",
+   "value": 94.1
+ },
+ {
+   "name": "Housing",
+   "value": 70.1
+ },
+ {
+   "name": "Utilities",
+   "value": 95.8
+ },
+ {
+   "name": "Transportation",
+   "value": 91.3
+ },
+ {
+   "name": "Health",
+   "value": 93.1
+ },
+ {
+   "name": "Misc.",
+   "value": 92.5
+ }]},
+ {
+   "name": "Oregon","value":[{
+   "name": "Grocery",
+   "value": 113.8
+ },
+ {
+   "name": "Housing",
+   "value": 184.8
+ },
+ {
+   "name": "Utilities",
+   "value": 87.5
+ },
+ {
+   "name": "Transportation",
+   "value": 129.4
+ },
+ {
+   "name": "Health",
+   "value": 117.2
+ },
+ {
+   "name": "Misc.",
+   "value": 120
+ }]},
+ {
+   "name": "Pennsylvania","value":[{
+   "name": "Grocery",
+   "value": 105.2
+ },
+ {
+   "name": "Housing",
+   "value": 99.4
+ },
+ {
+   "name": "Utilities",
+   "value": 109.5
+ },
+ {
+   "name": "Transportation",
+   "value": 109.8
+ },
+ {
+   "name": "Health",
+   "value": 93.6
+ },
+ {
+   "name": "Misc.",
+   "value": 99.4
+ }]},
+ {
+   "name": "Puerto Rico","value":[{
+   "name": "Grocery",
+   "value": 118.5
+ },
+ {
+   "name": "Housing",
+   "value": 81.2
+ },
+ {
+   "name": "Utilities",
+   "value": 159.3
+ },
+ {
+   "name": "Transportation",
+   "value": 98.4
+ },
+ {
+   "name": "Health",
+   "value": 65.6
+ },
+ {
+   "name": "Misc.",
+   "value": 96.6
+ }]},
+ {
+   "name": "Rhode Island","value":[{
+   "name": "Grocery",
+   "value": 108
+ },
+ {
+   "name": "Housing",
+   "value": 132.3
+ },
+ {
+   "name": "Utilities",
+   "value": 127
+ },
+ {
+   "name": "Transportation",
+   "value": 106.1
+ },
+ {
+   "name": "Health",
+   "value": 108
+ },
+ {
+   "name": "Misc.",
+   "value": 116.7
+ }]},
+ {
+   "name": "South Carolina","value":[{
+   "name": "Grocery",
+   "value": 102.1
+ },
+ {
+   "name": "Housing",
+   "value": 84.9
+ },
+ {
+   "name": "Utilities",
+   "value": 106.3
+ },
+ {
+   "name": "Transportation",
+   "value": 91.5
+ },
+ {
+   "name": "Health",
+   "value": 94.1
+ },
+ {
+   "name": "Misc.",
+   "value": 100.2
+ }]},
+ {
+   "name": "South Dakota","value":[{
+   "name": "Grocery",
+   "value": 98.7
+ },
+ {
+   "name": "Housing",
+   "value": 101
+ },
+ {
+   "name": "Utilities",
+   "value": 87.9
+ },
+ {
+   "name": "Transportation",
+   "value": 95.1
+ },
+ {
+   "name": "Health",
+   "value": 103
+ },
+ {
+   "name": "Misc.",
+   "value": 95.4
+ }]},
+ {
+   "name": "Tennessee","value":[{
+   "name": "Grocery",
+   "value": 94.5
+ },
+ {
+   "name": "Housing",
+   "value": 82.6
+ },
+ {
+   "name": "Utilities",
+   "value": 92.2
+ },
+ {
+   "name": "Transportation",
+   "value": 87.7
+ },
+ {
+   "name": "Health",
+   "value": 89.9
+ },
+ {
+   "name": "Misc.",
+   "value": 94.4
+ }]},
+ {
+   "name": "Texas","value":[{
+   "name": "Grocery",
+   "value": 89.9
+ },
+ {
+   "name": "Housing",
+   "value": 85.9
+ },
+ {
+   "name": "Utilities",
+   "value": 102.3
+ },
+ {
+   "name": "Transportation",
+   "value": 92.2
+ },
+ {
+   "name": "Health",
+   "value": 95.4
+ },
+ {
+   "name": "Misc.",
+   "value": 95
+ }]},
+ {
+   "name": "Utah","value":[{
+   "name": "Grocery",
+   "value": 98.3
+ },
+ {
+   "name": "Housing",
+   "value": 93.9
+ },
+ {
+   "name": "Utilities",
+   "value": 92.7
+ },
+ {
+   "name": "Transportation",
+   "value": 103.1
+ },
+ {
+   "name": "Health",
+   "value": 92.7
+ },
+ {
+   "name": "Misc.",
+   "value": 99.7
+ }]},
+ {
+   "name": "Vermont","value":[{
+   "name": "Grocery",
+   "value": 112.2
+ },
+ {
+   "name": "Housing",
+   "value": 137.2
+ },
+ {
+   "name": "Utilities",
+   "value": 118.4
+ },
+ {
+   "name": "Transportation",
+   "value": 112.4
+ },
+ {
+   "name": "Health",
+   "value": 100
+ },
+ {
+   "name": "Misc.",
+   "value": 103.3
+ }]},
+ {
+   "name": "Virginia","value":[{
+   "name": "Grocery",
+   "value": 97.1
+ },
+ {
+   "name": "Housing",
+   "value": 112.1
+ },
+ {
+   "name": "Utilities",
+   "value": 99
+ },
+ {
+   "name": "Transportation",
+   "value": 91.9
+ },
+ {
+   "name": "Health",
+   "value": 98
+ },
+ {
+   "name": "Misc.",
+   "value": 98.8
+ }]},
+ {
+   "name": "Washington","value":[{
+   "name": "Grocery",
+   "value": 108.2
+ },
+ {
+   "name": "Housing",
+   "value": 118.8
+ },
+ {
+   "name": "Utilities",
+   "value": 90.1
+ },
+ {
+   "name": "Transportation",
+   "value": 116.6
+ },
+ {
+   "name": "Health",
+   "value": 119.9
+ },
+ {
+   "name": "Misc.",
+   "value": 109.9
+ }]},
+ {
+   "name": "West Virginia","value":[{
+   "name": "Grocery",
+   "value": 95.4
+ },
+ {
+   "name": "Housing",
+   "value": 81.7
+ },
+ {
+   "name": "Utilities",
+   "value": 90.3
+ },
+ {
+   "name": "Transportation",
+   "value": 85.4
+ },
+ {
+   "name": "Health",
+   "value": 87.6
+ },
+ {
+   "name": "Misc.",
+   "value": 101.5
+ }]},
+ {
+   "name": "Wisconsin","value":[{
+   "name": "Grocery",
+   "value": 97.4
+ },
+ {
+   "name": "Housing",
+   "value": 88.7
+ },
+ {
+   "name": "Utilities",
+   "value": 98.2
+ },
+ {
+   "name": "Transportation",
+   "value": 100.3
+ },
+ {
+   "name": "Health",
+   "value": 114.4
+ },
+ {
+   "name": "Misc.",
+   "value": 97.9
+ }]},
+ {
+   "name": "Wyoming","value":[{
+   "name": "Grocery",
+   "value": 104.6
+ },
+ {
+   "name": "Housing",
+   "value": 87.7
+ },
+ {
+   "name": "Utilities",
+   "value": 87.2
+ },
+ {
+   "name": "Transportation",
+   "value": 84.8
+ },
+ {
+   "name": "Health",
+   "value": 96.8
+ },
+ {
+   "name": "Misc.",
+   "value": 102.6
+ }
+ ]}
+]

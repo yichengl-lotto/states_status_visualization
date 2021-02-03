@@ -1,0 +1,308 @@
+[
+  {
+    "state": "Alabama",
+    "InState": 10530,
+    "OutState": 25760,
+    "id": "01"
+  },
+  {
+    "state": "Alaska",
+    "InState": 7440,
+    "OutState": 22840,
+    "id": "02"
+  },
+  {
+    "state": "Arizona",
+    "InState": 11220,
+    "OutState": 29750,
+    "id": "04"
+  },
+  {
+    "state": "Arkansas",
+    "InState": 8550,
+    "OutState": 210,
+    "id": "05"
+  },
+  {
+    "state": "California",
+    "InState": 9680,
+    "OutState": 32590,
+    "id": "06"
+  },
+  {
+    "state": "Colorado",
+    "InState": 10800,
+    "OutState": 30600,
+    "id": "08"
+  },
+  {
+    "state": "Connecticut",
+    "InState": 12390,
+    "OutState": 2920,
+    "id": "09"
+  },
+  {
+    "state": "Delaware",
+    "InState": 12270,
+    "OutState": 30970,
+    "id": 10
+  },
+  {
+    "state": "District of Columbia",
+    "InState": 10230,
+    "OutState": 21500,
+    "id": 11
+  },
+  {
+    "state": "Florida",
+    "InState": 6360,
+    "OutState": 21880,
+    "id": 12
+  },
+  {
+    "state": "Georgia",
+    "InState": 8570,
+    "OutState": 26760,
+    "id": 13
+  },
+  {
+    "state": "Hawaii",
+    "InState": 10660,
+    "OutState": 3190,
+    "id": 15
+  },
+  {
+    "state": "Idaho",
+    "InState": 7250,
+    "OutState": 22580,
+    "id": 16
+  },
+  {
+    "state": "Illinois",
+    "InState": 13620,
+    "OutState": 23480,
+    "id": 17
+  },
+  {
+    "state": "Indiana",
+    "InState": 9360,
+    "OutState": 29170,
+    "id": 18
+  },
+  {
+    "state": "Iowa",
+    "InState": 8760,
+    "OutState": 2640,
+    "id": 19
+  },
+  {
+    "state": "Kansas",
+    "InState": 9230,
+    "OutState": 23910,
+    "id": 20
+  },
+  {
+    "state": "Kentucky",
+    "InState": 10300,
+    "OutState": 23710,
+    "id": 21
+  },
+  {
+    "state": "Louisiana",
+    "InState": 9300,
+    "OutState": 23280,
+    "id": 22
+  },
+  {
+    "state": "Maine",
+    "InState": 9970,
+    "OutState": 2710,
+    "id": 23
+  },
+  {
+    "state": "Maryland",
+    "InState": 9580,
+    "OutState": 2260,
+    "id": 24
+  },
+  {
+    "state": "Massachusetts",
+    "InState": 12730,
+    "OutState": 29220,
+    "id": 25
+  },
+  {
+    "state": "Michigan",
+    "InState": 12930,
+    "OutState": 36840,
+    "id": 26
+  },
+  {
+    "state": "Minnesota",
+    "InState": 11300,
+    "OutState": 20890,
+    "id": 27
+  },
+  {
+    "state": "Mississippi",
+    "InState": 7990,
+    "OutState": 1960,
+    "id": 28
+  },
+  {
+    "state": "Missouri",
+    "InState": 8870,
+    "OutState": 21190,
+    "id": 29
+  },
+  {
+    "state": "Montana",
+    "InState": 6910,
+    "OutState": 23220,
+    "id": 30
+  },
+  {
+    "state": "Nebraska",
+    "InState": 8270,
+    "OutState": 20310,
+    "id": 31
+  },
+  {
+    "state": "Nevada",
+    "InState": 7270,
+    "OutState": 21510,
+    "id": 32
+  },
+  {
+    "state": "New Hampshire",
+    "InState": 1670,
+    "OutState": 28430,
+    "id": 33
+  },
+  {
+    "state": "New Jersey",
+    "InState": 13870,
+    "OutState": 26600,
+    "id": 34
+  },
+  {
+    "state": "New Mexico",
+    "InState": 6920,
+    "OutState": 2060,
+    "id": 35
+  },
+  {
+    "state": "New York",
+    "InState": 7940,
+    "OutState": 19500,
+    "id": 36
+  },
+  {
+    "state": "North Carolina",
+    "InState": 7380,
+    "OutState": 24520,
+    "id": 37
+  },
+  {
+    "state": "North Dakota",
+    "InState": 8200,
+    "OutState": 19420,
+    "id": 38
+  },
+  {
+    "state": "Ohio",
+    "InState": 10510,
+    "OutState": 250,
+    "id": 39
+  },
+  {
+    "state": "Oklahoma",
+    "InState": 8460,
+    "OutState": 22520,
+    "id": 40
+  },
+  {
+    "state": "Oregon",
+    "InState": 10360,
+    "OutState": 30300,
+    "id": 41
+  },
+  {
+    "state": "Pennsylvania",
+    "InState": 14440,
+    "OutState": 26960,
+    "id": 42
+  },
+  {
+    "state": "Rhode Island",
+    "InState": 12230,
+    "OutState": 28910,
+    "id": 44
+  },
+  {
+    "state": "South Carolina",
+    "InState": 12610,
+    "OutState": 31350,
+    "id": 45
+  },
+  {
+    "state": "South Dakota",
+    "InState": 8450,
+    "OutState": 12480,
+    "id": 46
+  },
+  {
+    "state": "Tennessee",
+    "InState": 9790,
+    "OutState": 26640,
+    "id": 47
+  },
+  {
+    "state": "Texas",
+    "InState": 9840,
+    "OutState": 26210,
+    "id": 48
+  },
+  {
+    "state": "Utah",
+    "InState": 6790,
+    "OutState": 20730,
+    "id": 49
+  },
+  {
+    "state": "Vermont",
+    "InState": 1640,
+    "OutState": 38990,
+    "id": 50
+  },
+  {
+    "state": "Virginia",
+    "InState": 12820,
+    "OutState": 33270,
+    "id": 51
+  },
+  {
+    "state": "Washington",
+    "InState": 9480,
+    "OutState": 29300,
+    "id": 53
+  },
+  {
+    "state": "West Virginia",
+    "InState": 7890,
+    "OutState": 21550,
+    "id": 54
+  },
+  {
+    "state": "Wisconsin",
+    "InState": 8960,
+    "OutState": 22930,
+    "id": 55
+  },
+  {
+    "state": "Wyoming",
+    "InState": 5220,
+    "OutState": 16830,
+    "id": 56
+  }
+ ]

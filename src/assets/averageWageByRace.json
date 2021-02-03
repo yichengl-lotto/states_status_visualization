@@ -1,0 +1,2558 @@
+[
+  {
+    "id": 26,
+    "race": "Black",
+    "state": "Michigan",
+    "averageWage": 48203.77582
+  },
+  {
+    "id": 56,
+    "race": "Two or More Races",
+    "state": "Wyoming",
+    "averageWage": 81047.7541
+  },
+  {
+    "id": 55,
+    "race": "Two or More Races",
+    "state": "Wisconsin",
+    "averageWage": 50654.84783
+  },
+  {
+    "id": 72,
+    "race": "White",
+    "state": "Puerto Rico",
+    "averageWage": 25345.20102
+  },
+  {
+    "id": 54,
+    "race": "Two or More Races",
+    "state": "West Virginia",
+    "averageWage": 159237.5105
+  },
+  {
+    "id": 53,
+    "race": "Two or More Races",
+    "state": "Washington",
+    "averageWage": 104763.6934
+  },
+  {
+    "id": "01",
+    "race": "White",
+    "state": "Alabama",
+    "averageWage": 42637.46587
+  },
+  {
+    "id": 51,
+    "race": "Two or More Races",
+    "state": "Virginia",
+    "averageWage": 100390.235
+  },
+  {
+    "id": "02",
+    "race": "White",
+    "state": "Alaska",
+    "averageWage": 52171.56709
+  },
+  {
+    "id": 50,
+    "race": "Two or More Races",
+    "state": "Vermont",
+    "averageWage": 45589.37255
+  },
+  {
+    "id": 49,
+    "race": "Two or More Races",
+    "state": "Utah",
+    "averageWage": 103520.864
+  },
+  {
+    "id": "04",
+    "race": "White",
+    "state": "Arizona",
+    "averageWage": 39874.27627
+  },
+  {
+    "id": 48,
+    "race": "Two or More Races",
+    "state": "Texas",
+    "averageWage": 82010.76156
+  },
+  {
+    "id": "05",
+    "race": "White",
+    "state": "Arkansas",
+    "averageWage": 40115.43422
+  },
+  {
+    "id": 47,
+    "race": "Two or More Races",
+    "state": "Tennessee",
+    "averageWage": 64740.77573
+  },
+  {
+    "id": 46,
+    "race": "Two or More Races",
+    "state": "South Dakota",
+    "averageWage": 54949.39512
+  },
+  {
+    "id": "06",
+    "race": "White",
+    "state": "California",
+    "averageWage": 59746.956
+  },
+  {
+    "id": 45,
+    "race": "Two or More Races",
+    "state": "South Carolina",
+    "averageWage": 83457.34778
+  },
+  {
+    "id": "08",
+    "race": "White",
+    "state": "Colorado",
+    "averageWage": 45720.34113
+  },
+  {
+    "id": 44,
+    "race": "Two or More Races",
+    "state": "Rhode Island",
+    "averageWage": 59347.44118
+  },
+  {
+    "id": 42,
+    "race": "Two or More Races",
+    "state": "Pennsylvania",
+    "averageWage": 53577.67507
+  },
+  {
+    "id": "09",
+    "race": "White",
+    "state": "Connecticut",
+    "averageWage": 61160.75769
+  },
+  {
+    "id": 41,
+    "race": "Two or More Races",
+    "state": "Oregon",
+    "averageWage": 61631.68654
+  },
+  {
+    "id": 10,
+    "race": "White",
+    "state": "Delaware",
+    "averageWage": 52645.61357
+  },
+  {
+    "id": 40,
+    "race": "Two or More Races",
+    "state": "Oklahoma",
+    "averageWage": 54941.0586
+  },
+  {
+    "id": 11,
+    "race": "White",
+    "state": "District of Columbia",
+    "averageWage": 64667.64676
+  },
+  {
+    "id": 39,
+    "race": "Two or More Races",
+    "state": "Ohio",
+    "averageWage": 57293.205
+  },
+  {
+    "id": 12,
+    "race": "White",
+    "state": "Florida",
+    "averageWage": 41904.75418
+  },
+  {
+    "id": 38,
+    "race": "Two or More Races",
+    "state": "North Dakota",
+    "averageWage": 7008.186813
+  },
+  {
+    "id": 37,
+    "race": "Two or More Races",
+    "state": "North Carolina",
+    "averageWage": 69523.22641
+  },
+  {
+    "id": 13,
+    "race": "White",
+    "state": "Georgia",
+    "averageWage": 46844.37836
+  },
+  {
+    "id": 36,
+    "race": "Two or More Races",
+    "state": "New York",
+    "averageWage": 101470.7045
+  },
+  {
+    "id": 15,
+    "race": "White",
+    "state": "Hawaii",
+    "averageWage": 48674.72548
+  },
+  {
+    "id": 35,
+    "race": "Two or More Races",
+    "state": "New Mexico",
+    "averageWage": 60733.47112
+  },
+  {
+    "id": 34,
+    "race": "Two or More Races",
+    "state": "New Jersey",
+    "averageWage": 116292.5917
+  },
+  {
+    "id": 16,
+    "race": "White",
+    "state": "Idaho",
+    "averageWage": 42057.77169
+  },
+  {
+    "id": 33,
+    "race": "Two or More Races",
+    "state": "New Hampshire",
+    "averageWage": 45589.36331
+  },
+  {
+    "id": 17,
+    "race": "White",
+    "state": "Illinois",
+    "averageWage": 52631.63818
+  },
+  {
+    "id": 32,
+    "race": "Two or More Races",
+    "state": "Nevada",
+    "averageWage": 74414.1169
+  },
+  {
+    "id": 18,
+    "race": "White",
+    "state": "Indiana",
+    "averageWage": 43509.14381
+  },
+  {
+    "id": 31,
+    "race": "Two or More Races",
+    "state": "Nebraska",
+    "averageWage": 72638.82275
+  },
+  {
+    "id": 30,
+    "race": "Two or More Races",
+    "state": "Montana",
+    "averageWage": 112865.375
+  },
+  {
+    "id": 19,
+    "race": "White",
+    "state": "Iowa",
+    "averageWage": 46627.83263
+  },
+  {
+    "id": 29,
+    "race": "Two or More Races",
+    "state": "Missouri",
+    "averageWage": 72910.85619
+  },
+  {
+    "id": 20,
+    "race": "White",
+    "state": "Kansas",
+    "averageWage": 40624.291
+  },
+  {
+    "id": 28,
+    "race": "Two or More Races",
+    "state": "Mississippi",
+    "averageWage": 5199.528205
+  },
+  {
+    "id": 27,
+    "race": "Two or More Races",
+    "state": "Minnesota",
+    "averageWage": 202844.3393
+  },
+  {
+    "id": 21,
+    "race": "White",
+    "state": "Kentucky",
+    "averageWage": 44723.65747
+  },
+  {
+    "id": 26,
+    "race": "Two or More Races",
+    "state": "Michigan",
+    "averageWage": 64587.69912
+  },
+  {
+    "id": 22,
+    "race": "White",
+    "state": "Louisiana",
+    "averageWage": 42447.88479
+  },
+  {
+    "id": 25,
+    "race": "Two or More Races",
+    "state": "Massachusetts",
+    "averageWage": 103607.9696
+  },
+  {
+    "id": 23,
+    "race": "White",
+    "state": "Maine",
+    "averageWage": 42226.06798
+  },
+  {
+    "id": 24,
+    "race": "Two or More Races",
+    "state": "Maryland",
+    "averageWage": 103677.4428
+  },
+  {
+    "id": 23,
+    "race": "Two or More Races",
+    "state": "Maine",
+    "averageWage": 36471.49367
+  },
+  {
+    "id": 24,
+    "race": "White",
+    "state": "Maryland",
+    "averageWage": 54889.67237
+  },
+  {
+    "id": 22,
+    "race": "Two or More Races",
+    "state": "Louisiana",
+    "averageWage": 35340.07239
+  },
+  {
+    "id": 25,
+    "race": "White",
+    "state": "Massachusetts",
+    "averageWage": 60367.54213
+  },
+  {
+    "id": 21,
+    "race": "Two or More Races",
+    "state": "Kentucky",
+    "averageWage": 57575.28267
+  },
+  {
+    "id": 26,
+    "race": "White",
+    "state": "Michigan",
+    "averageWage": 50102.22109
+  },
+  {
+    "id": 20,
+    "race": "Two or More Races",
+    "state": "Kansas",
+    "averageWage": 41866.85957
+  },
+  {
+    "id": 19,
+    "race": "Two or More Races",
+    "state": "Iowa",
+    "averageWage": 36362.81023
+  },
+  {
+    "id": 27,
+    "race": "White",
+    "state": "Minnesota",
+    "averageWage": 50894.45491
+  },
+  {
+    "id": 18,
+    "race": "Two or More Races",
+    "state": "Indiana",
+    "averageWage": 62684.375
+  },
+  {
+    "id": 28,
+    "race": "White",
+    "state": "Mississippi",
+    "averageWage": 42262.75344
+  },
+  {
+    "id": 17,
+    "race": "Two or More Races",
+    "state": "Illinois",
+    "averageWage": 91695.55131
+  },
+  {
+    "id": 29,
+    "race": "White",
+    "state": "Missouri",
+    "averageWage": 43550.27245
+  },
+  {
+    "id": 16,
+    "race": "Two or More Races",
+    "state": "Idaho",
+    "averageWage": 8513.665549
+  },
+  {
+    "id": 15,
+    "race": "Two or More Races",
+    "state": "Hawaii",
+    "averageWage": 59009.13508
+  },
+  {
+    "id": 30,
+    "race": "White",
+    "state": "Montana",
+    "averageWage": 40263.92515
+  },
+  {
+    "id": 13,
+    "race": "Two or More Races",
+    "state": "Georgia",
+    "averageWage": 80188.51225
+  },
+  {
+    "id": 31,
+    "race": "White",
+    "state": "Nebraska",
+    "averageWage": 45094.71155
+  },
+  {
+    "id": 12,
+    "race": "Two or More Races",
+    "state": "Florida",
+    "averageWage": 75819.70319
+  },
+  {
+    "id": 32,
+    "race": "White",
+    "state": "Nevada",
+    "averageWage": 50301.27819
+  },
+  {
+    "id": 11,
+    "race": "Two or More Races",
+    "state": "District of Columbia",
+    "averageWage": 84431.12129
+  },
+  {
+    "id": 10,
+    "race": "Two or More Races",
+    "state": "Delaware",
+    "averageWage": 99933.47013
+  },
+  {
+    "id": 33,
+    "race": "White",
+    "state": "New Hampshire",
+    "averageWage": 52142.80753
+  },
+  {
+    "id": "09",
+    "race": "Two or More Races",
+    "state": "Connecticut",
+    "averageWage": 61301.48571
+  },
+  {
+    "id": "08",
+    "race": "Two or More Races",
+    "state": "Colorado",
+    "averageWage": 85392.43561
+  },
+  {
+    "id": 34,
+    "race": "White",
+    "state": "New Jersey",
+    "averageWage": 62395.4841
+  },
+  {
+    "id": "06",
+    "race": "Two or More Races",
+    "state": "California",
+    "averageWage": 108808.0177
+  },
+  {
+    "id": 35,
+    "race": "White",
+    "state": "New Mexico",
+    "averageWage": 36591.55181
+  },
+  {
+    "id": "05",
+    "race": "Two or More Races",
+    "state": "Arkansas",
+    "averageWage": 91178.72781
+  },
+  {
+    "id": 36,
+    "race": "White",
+    "state": "New York",
+    "averageWage": 67096.87125
+  },
+  {
+    "id": "04",
+    "race": "Two or More Races",
+    "state": "Arizona",
+    "averageWage": 74063.43956
+  },
+  {
+    "id": "02",
+    "race": "Two or More Races",
+    "state": "Alaska",
+    "averageWage": 83161.2931
+  },
+  {
+    "id": 37,
+    "race": "White",
+    "state": "North Carolina",
+    "averageWage": 42397.14142
+  },
+  {
+    "id": "01",
+    "race": "Two or More Races",
+    "state": "Alabama",
+    "averageWage": 100382.6226
+  },
+  {
+    "id": 38,
+    "race": "White",
+    "state": "North Dakota",
+    "averageWage": 49026.46233
+  },
+  {
+    "id": 72,
+    "race": "Two or More Races",
+    "state": "Puerto Rico",
+    "averageWage": 58723.74306
+  },
+  {
+    "id": 39,
+    "race": "White",
+    "state": "Ohio",
+    "averageWage": 53644.73368
+  },
+  {
+    "id": 56,
+    "race": "Other",
+    "state": "Wyoming",
+    "averageWage": 31920.86066
+  },
+  {
+    "id": 55,
+    "race": "Other",
+    "state": "Wisconsin",
+    "averageWage": 37703.76923
+  },
+  {
+    "id": 40,
+    "race": "White",
+    "state": "Oklahoma",
+    "averageWage": 35520.34061
+  },
+  {
+    "id": 54,
+    "race": "Other",
+    "state": "West Virginia",
+    "averageWage": 8104.774648
+  },
+  {
+    "id": 53,
+    "race": "Other",
+    "state": "Washington",
+    "averageWage": 68379.70536
+  },
+  {
+    "id": 41,
+    "race": "White",
+    "state": "Oregon",
+    "averageWage": 47758.71236
+  },
+  {
+    "id": 51,
+    "race": "Other",
+    "state": "Virginia",
+    "averageWage": 81884.42921
+  },
+  {
+    "id": 42,
+    "race": "White",
+    "state": "Pennsylvania",
+    "averageWage": 55352.57799
+  },
+  {
+    "id": 50,
+    "race": "Other",
+    "state": "Vermont",
+    "averageWage": 15897.59146
+  },
+  {
+    "id": 49,
+    "race": "Other",
+    "state": "Utah",
+    "averageWage": 61911.48519
+  },
+  {
+    "id": 44,
+    "race": "White",
+    "state": "Rhode Island",
+    "averageWage": 65354.08598
+  },
+  {
+    "id": 48,
+    "race": "Other",
+    "state": "Texas",
+    "averageWage": 60179.15282
+  },
+  {
+    "id": 47,
+    "race": "Other",
+    "state": "Tennessee",
+    "averageWage": 22360.5
+  },
+  {
+    "id": 45,
+    "race": "White",
+    "state": "South Carolina",
+    "averageWage": 44187.13651
+  },
+  {
+    "id": 46,
+    "race": "Other",
+    "state": "South Dakota",
+    "averageWage": 2552.487288
+  },
+  {
+    "id": 46,
+    "race": "White",
+    "state": "South Dakota",
+    "averageWage": 41808.49915
+  },
+  {
+    "id": 45,
+    "race": "Other",
+    "state": "South Carolina",
+    "averageWage": 35363.33745
+  },
+  {
+    "id": 44,
+    "race": "Other",
+    "state": "Rhode Island",
+    "averageWage": 59424.60372
+  },
+  {
+    "id": 47,
+    "race": "White",
+    "state": "Tennessee",
+    "averageWage": 41139.95447
+  },
+  {
+    "id": 42,
+    "race": "Other",
+    "state": "Pennsylvania",
+    "averageWage": 74461.95587
+  },
+  {
+    "id": 48,
+    "race": "White",
+    "state": "Texas",
+    "averageWage": 45706.83746
+  },
+  {
+    "id": 41,
+    "race": "Other",
+    "state": "Oregon",
+    "averageWage": 25807.17918
+  },
+  {
+    "id": 49,
+    "race": "White",
+    "state": "Utah",
+    "averageWage": 39222.3579
+  },
+  {
+    "id": 40,
+    "race": "Other",
+    "state": "Oklahoma",
+    "averageWage": 34937.64486
+  },
+  {
+    "id": 39,
+    "race": "Other",
+    "state": "Ohio",
+    "averageWage": 50407.20782
+  },
+  {
+    "id": 50,
+    "race": "White",
+    "state": "Vermont",
+    "averageWage": 51048.22253
+  },
+  {
+    "id": 38,
+    "race": "Other",
+    "state": "North Dakota",
+    "averageWage": 31608.62692
+  },
+  {
+    "id": 37,
+    "race": "Other",
+    "state": "North Carolina",
+    "averageWage": 75405.45178
+  },
+  {
+    "id": 51,
+    "race": "White",
+    "state": "Virginia",
+    "averageWage": 50148.19562
+  },
+  {
+    "id": 36,
+    "race": "Other",
+    "state": "New York",
+    "averageWage": 65469.63564
+  },
+  {
+    "id": 53,
+    "race": "White",
+    "state": "Washington",
+    "averageWage": 54763.99229
+  },
+  {
+    "id": 35,
+    "race": "Other",
+    "state": "New Mexico",
+    "averageWage": 68176.2832
+  },
+  {
+    "id": 54,
+    "race": "White",
+    "state": "West Virginia",
+    "averageWage": 38441.44097
+  },
+  {
+    "id": 34,
+    "race": "Other",
+    "state": "New Jersey",
+    "averageWage": 63717.96988
+  },
+  {
+    "id": 33,
+    "race": "Other",
+    "state": "New Hampshire",
+    "averageWage": 60785.81915
+  },
+  {
+    "id": 55,
+    "race": "White",
+    "state": "Wisconsin",
+    "averageWage": 46792.10016
+  },
+  {
+    "id": 32,
+    "race": "Other",
+    "state": "Nevada",
+    "averageWage": 40502.78589
+  },
+  {
+    "id": 56,
+    "race": "White",
+    "state": "Wyoming",
+    "averageWage": 48255.93244
+  },
+  {
+    "id": 31,
+    "race": "Other",
+    "state": "Nebraska",
+    "averageWage": 7282.078671
+  },
+  {
+    "id": 30,
+    "race": "Other",
+    "state": "Montana",
+    "averageWage": 20261.93986
+  },
+  {
+    "id": 72,
+    "race": "Black",
+    "state": "Puerto Rico",
+    "averageWage": 25012.72694
+  },
+  {
+    "id": 29,
+    "race": "Other",
+    "state": "Missouri",
+    "averageWage": 13423.53646
+  },
+  {
+    "id": 28,
+    "race": "Other",
+    "state": "Mississippi",
+    "averageWage": 7670.591837
+  },
+  {
+    "id": "01",
+    "race": "Black",
+    "state": "Alabama",
+    "averageWage": 36299.97559
+  },
+  {
+    "id": 27,
+    "race": "Other",
+    "state": "Minnesota",
+    "averageWage": 81047.75926
+  },
+  {
+    "id": "02",
+    "race": "Black",
+    "state": "Alaska",
+    "averageWage": 74857.42242
+  },
+  {
+    "id": 26,
+    "race": "Other",
+    "state": "Michigan",
+    "averageWage": 77529.56799
+  },
+  {
+    "id": 25,
+    "race": "Other",
+    "state": "Massachusetts",
+    "averageWage": 76372.48432
+  },
+  {
+    "id": "04",
+    "race": "Black",
+    "state": "Arizona",
+    "averageWage": 35509.57612
+  },
+  {
+    "id": 24,
+    "race": "Other",
+    "state": "Maryland",
+    "averageWage": 89002.41594
+  },
+  {
+    "id": "05",
+    "race": "Black",
+    "state": "Arkansas",
+    "averageWage": 36258.96001
+  },
+  {
+    "id": 23,
+    "race": "Other",
+    "state": "Maine",
+    "averageWage": 3039.283333
+  },
+  {
+    "id": 22,
+    "race": "Other",
+    "state": "Louisiana",
+    "averageWage": 60090.55556
+  },
+  {
+    "id": "06",
+    "race": "Black",
+    "state": "California",
+    "averageWage": 51776.50846
+  },
+  {
+    "id": 21,
+    "race": "Other",
+    "state": "Kentucky",
+    "averageWage": 3925.790447
+  },
+  {
+    "id": 20,
+    "race": "Other",
+    "state": "Kansas",
+    "averageWage": 11578.60181
+  },
+  {
+    "id": "08",
+    "race": "Black",
+    "state": "Colorado",
+    "averageWage": 54852.51777
+  },
+  {
+    "id": 19,
+    "race": "Other",
+    "state": "Iowa",
+    "averageWage": 40852.45495
+  },
+  {
+    "id": "09",
+    "race": "Black",
+    "state": "Connecticut",
+    "averageWage": 57169.06359
+  },
+  {
+    "id": 18,
+    "race": "Other",
+    "state": "Indiana",
+    "averageWage": 20261.93939
+  },
+  {
+    "id": 17,
+    "race": "Other",
+    "state": "Illinois",
+    "averageWage": 63395.48744
+  },
+  {
+    "id": 10,
+    "race": "Black",
+    "state": "Delaware",
+    "averageWage": 54617.74936
+  },
+  {
+    "id": 16,
+    "race": "Other",
+    "state": "Idaho",
+    "averageWage": 246141.8097
+  },
+  {
+    "id": 11,
+    "race": "Black",
+    "state": "District of Columbia",
+    "averageWage": 57324.528
+  },
+  {
+    "id": 15,
+    "race": "Other",
+    "state": "Hawaii",
+    "averageWage": 55720.34177
+  },
+  {
+    "id": 13,
+    "race": "Other",
+    "state": "Georgia",
+    "averageWage": 61608.11798
+  },
+  {
+    "id": 12,
+    "race": "Black",
+    "state": "Florida",
+    "averageWage": 41906.35538
+  },
+  {
+    "id": 12,
+    "race": "Other",
+    "state": "Florida",
+    "averageWage": 63317.41857
+  },
+  {
+    "id": 13,
+    "race": "Black",
+    "state": "Georgia",
+    "averageWage": 45818.67998
+  },
+  {
+    "id": 11,
+    "race": "Other",
+    "state": "District of Columbia",
+    "averageWage": 33018.85818
+  },
+  {
+    "id": 15,
+    "race": "Black",
+    "state": "Hawaii",
+    "averageWage": 26340.51563
+  },
+  {
+    "id": 10,
+    "race": "Other",
+    "state": "Delaware",
+    "averageWage": 101309.7
+  },
+  {
+    "id": 16,
+    "race": "Black",
+    "state": "Idaho",
+    "averageWage": 53099.14683
+  },
+  {
+    "id": "09",
+    "race": "Other",
+    "state": "Connecticut",
+    "averageWage": 46394.16262
+  },
+  {
+    "id": 17,
+    "race": "Black",
+    "state": "Illinois",
+    "averageWage": 43853.02511
+  },
+  {
+    "id": "08",
+    "race": "Other",
+    "state": "Colorado",
+    "averageWage": 70460.99668
+  },
+  {
+    "id": "06",
+    "race": "Other",
+    "state": "California",
+    "averageWage": 70090.37263
+  },
+  {
+    "id": 18,
+    "race": "Black",
+    "state": "Indiana",
+    "averageWage": 43601.76503
+  },
+  {
+    "id": "05",
+    "race": "Other",
+    "state": "Arkansas",
+    "averageWage": 43976.35037
+  },
+  {
+    "id": 19,
+    "race": "Black",
+    "state": "Iowa",
+    "averageWage": 56937.64136
+  },
+  {
+    "id": "04",
+    "race": "Other",
+    "state": "Arizona",
+    "averageWage": 92548.06735
+  },
+  {
+    "id": 20,
+    "race": "Black",
+    "state": "Kansas",
+    "averageWage": 50776.66616
+  },
+  {
+    "id": "02",
+    "race": "Other",
+    "state": "Alaska",
+    "averageWage": 20261.94118
+  },
+  {
+    "id": "01",
+    "race": "Other",
+    "state": "Alabama",
+    "averageWage": 55720.33645
+  },
+  {
+    "id": 72,
+    "race": "Other",
+    "state": "Puerto Rico",
+    "averageWage": 65321.32959
+  },
+  {
+    "id": 21,
+    "race": "Black",
+    "state": "Kentucky",
+    "averageWage": 45867.02439
+  },
+  {
+    "id": 53,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Washington",
+    "averageWage": 42722.33141
+  },
+  {
+    "id": 22,
+    "race": "Black",
+    "state": "Louisiana",
+    "averageWage": 41706.2118
+  },
+  {
+    "id": 23,
+    "race": "Black",
+    "state": "Maine",
+    "averageWage": 8611.322917
+  },
+  {
+    "id": 51,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Virginia",
+    "averageWage": 56733.42857
+  },
+  {
+    "id": 49,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Utah",
+    "averageWage": 87530.45956
+  },
+  {
+    "id": 48,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Texas",
+    "averageWage": 172226.4815
+  },
+  {
+    "id": 24,
+    "race": "Black",
+    "state": "Maryland",
+    "averageWage": 55652.46213
+  },
+  {
+    "id": 47,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Tennessee",
+    "averageWage": 2026.192053
+  },
+  {
+    "id": 45,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "South Carolina",
+    "averageWage": 18690.40244
+  },
+  {
+    "id": 41,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Oregon",
+    "averageWage": 44555.16204
+  },
+  {
+    "id": 25,
+    "race": "Black",
+    "state": "Massachusetts",
+    "averageWage": 52683.47574
+  },
+  {
+    "id": 39,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Ohio",
+    "averageWage": 139764.5739
+  },
+  {
+    "id": 38,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "North Dakota",
+    "averageWage": 3039.28
+  },
+  {
+    "id": 37,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "North Carolina",
+    "averageWage": 418409.045
+  },
+  {
+    "id": 36,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "New York",
+    "averageWage": 50654.856
+  },
+  {
+    "id": 35,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "New Mexico",
+    "averageWage": 89383.78261
+  },
+  {
+    "id": 27,
+    "race": "Black",
+    "state": "Minnesota",
+    "averageWage": 66020.30989
+  },
+  {
+    "id": 33,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "New Hampshire",
+    "averageWage": 70916.78846
+  },
+  {
+    "id": 32,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Nevada",
+    "averageWage": 55720.33557
+  },
+  {
+    "id": 29,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Missouri",
+    "averageWage": 3039.302326
+  },
+  {
+    "id": 28,
+    "race": "Black",
+    "state": "Mississippi",
+    "averageWage": 37393.67838
+  },
+  {
+    "id": 26,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Michigan",
+    "averageWage": 75982.27273
+  },
+  {
+    "id": 25,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Massachusetts",
+    "averageWage": 101309.7059
+  },
+  {
+    "id": 24,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Maryland",
+    "averageWage": 11491.02055
+  },
+  {
+    "id": 22,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Louisiana",
+    "averageWage": 45589.36905
+  },
+  {
+    "id": 21,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Kentucky",
+    "averageWage": 66864.39474
+  },
+  {
+    "id": 29,
+    "race": "Black",
+    "state": "Missouri",
+    "averageWage": 39921.61636
+  },
+  {
+    "id": 30,
+    "race": "Black",
+    "state": "Montana",
+    "averageWage": 10130.97391
+  },
+  {
+    "id": 20,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Kansas",
+    "averageWage": 54707.24468
+  },
+  {
+    "id": 17,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Illinois",
+    "averageWage": 100296.6017
+  },
+  {
+    "id": 15,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Hawaii",
+    "averageWage": 56464.30032
+  },
+  {
+    "id": 31,
+    "race": "Black",
+    "state": "Nebraska",
+    "averageWage": 59248.54524
+  },
+  {
+    "id": 13,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Georgia",
+    "averageWage": 141664.7315
+  },
+  {
+    "id": 12,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Florida",
+    "averageWage": 98270.40667
+  },
+  {
+    "id": 32,
+    "race": "Black",
+    "state": "Nevada",
+    "averageWage": 40552.33302
+  },
+  {
+    "id": "08",
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Colorado",
+    "averageWage": 8104.778523
+  },
+  {
+    "id": 33,
+    "race": "Black",
+    "state": "New Hampshire",
+    "averageWage": 17199.08721
+  },
+  {
+    "id": "06",
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "California",
+    "averageWage": 64762.4021
+  },
+  {
+    "id": "04",
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Arizona",
+    "averageWage": 5845.862857
+  },
+  {
+    "id": 34,
+    "race": "Black",
+    "state": "New Jersey",
+    "averageWage": 48912.3734
+  },
+  {
+    "id": "02",
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Alaska",
+    "averageWage": 20261.94326
+  },
+  {
+    "id": "01",
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Alabama",
+    "averageWage": 34445.3012
+  },
+  {
+    "id": 35,
+    "race": "Black",
+    "state": "New Mexico",
+    "averageWage": 47440.71066
+  },
+  {
+    "id": 56,
+    "race": "Asian",
+    "state": "Wyoming",
+    "averageWage": 55720.32432
+  },
+  {
+    "id": 55,
+    "race": "Asian",
+    "state": "Wisconsin",
+    "averageWage": 56128.84274
+  },
+  {
+    "id": 36,
+    "race": "Black",
+    "state": "New York",
+    "averageWage": 64161.44858
+  },
+  {
+    "id": 53,
+    "race": "Asian",
+    "state": "Washington",
+    "averageWage": 155855.0043
+  },
+  {
+    "id": 51,
+    "race": "Asian",
+    "state": "Virginia",
+    "averageWage": 106454.008
+  },
+  {
+    "id": 37,
+    "race": "Black",
+    "state": "North Carolina",
+    "averageWage": 34161.14867
+  },
+  {
+    "id": 38,
+    "race": "Black",
+    "state": "North Dakota",
+    "averageWage": 40523.87889
+  },
+  {
+    "id": 50,
+    "race": "Asian",
+    "state": "Vermont",
+    "averageWage": 68890.59615
+  },
+  {
+    "id": 49,
+    "race": "Asian",
+    "state": "Utah",
+    "averageWage": 59300.6243
+  },
+  {
+    "id": 39,
+    "race": "Black",
+    "state": "Ohio",
+    "averageWage": 48240.45298
+  },
+  {
+    "id": 48,
+    "race": "Asian",
+    "state": "Texas",
+    "averageWage": 114787.393
+  },
+  {
+    "id": 40,
+    "race": "Black",
+    "state": "Oklahoma",
+    "averageWage": 37652.09208
+  },
+  {
+    "id": 47,
+    "race": "Asian",
+    "state": "Tennessee",
+    "averageWage": 106084.6646
+  },
+  {
+    "id": 46,
+    "race": "Asian",
+    "state": "South Dakota",
+    "averageWage": 42550.06818
+  },
+  {
+    "id": 41,
+    "race": "Black",
+    "state": "Oregon",
+    "averageWage": 46247.87656
+  },
+  {
+    "id": 45,
+    "race": "Asian",
+    "state": "South Carolina",
+    "averageWage": 104579.7803
+  },
+  {
+    "id": 42,
+    "race": "Black",
+    "state": "Pennsylvania",
+    "averageWage": 50931.93114
+  },
+  {
+    "id": 44,
+    "race": "Asian",
+    "state": "Rhode Island",
+    "averageWage": 24451.93146
+  },
+  {
+    "id": 42,
+    "race": "Asian",
+    "state": "Pennsylvania",
+    "averageWage": 132620.8099
+  },
+  {
+    "id": 44,
+    "race": "Black",
+    "state": "Rhode Island",
+    "averageWage": 41049.70109
+  },
+  {
+    "id": 41,
+    "race": "Asian",
+    "state": "Oregon",
+    "averageWage": 86221.69119
+  },
+  {
+    "id": 45,
+    "race": "Black",
+    "state": "South Carolina",
+    "averageWage": 40013.06214
+  },
+  {
+    "id": 40,
+    "race": "Asian",
+    "state": "Oklahoma",
+    "averageWage": 35458.3985
+  },
+  {
+    "id": 46,
+    "race": "Black",
+    "state": "South Dakota",
+    "averageWage": 42550.07692
+  },
+  {
+    "id": 39,
+    "race": "Asian",
+    "state": "Ohio",
+    "averageWage": 97614.21642
+  },
+  {
+    "id": 47,
+    "race": "Black",
+    "state": "Tennessee",
+    "averageWage": 46718.23751
+  },
+  {
+    "id": 38,
+    "race": "Asian",
+    "state": "North Dakota",
+    "averageWage": 35458.39353
+  },
+  {
+    "id": 37,
+    "race": "Asian",
+    "state": "North Carolina",
+    "averageWage": 115688.9966
+  },
+  {
+    "id": 36,
+    "race": "Asian",
+    "state": "New York",
+    "averageWage": 128130.6752
+  },
+  {
+    "id": 48,
+    "race": "Black",
+    "state": "Texas",
+    "averageWage": 44963.71888
+  },
+  {
+    "id": 35,
+    "race": "Asian",
+    "state": "New Mexico",
+    "averageWage": 102194.1481
+  },
+  {
+    "id": 49,
+    "race": "Black",
+    "state": "Utah",
+    "averageWage": 86939.04442
+  },
+  {
+    "id": 50,
+    "race": "Black",
+    "state": "Vermont",
+    "averageWage": 42651.38235
+  },
+  {
+    "id": 34,
+    "race": "Asian",
+    "state": "New Jersey",
+    "averageWage": 132789.7359
+  },
+  {
+    "id": 33,
+    "race": "Asian",
+    "state": "New Hampshire",
+    "averageWage": 11251.94444
+  },
+  {
+    "id": 51,
+    "race": "Black",
+    "state": "Virginia",
+    "averageWage": 43937.11825
+  },
+  {
+    "id": 32,
+    "race": "Asian",
+    "state": "Nevada",
+    "averageWage": 67781.87724
+  },
+  {
+    "id": 53,
+    "race": "Black",
+    "state": "Washington",
+    "averageWage": 60520.54038
+  },
+  {
+    "id": 31,
+    "race": "Asian",
+    "state": "Nebraska",
+    "averageWage": 59451.62791
+  },
+  {
+    "id": 30,
+    "race": "Asian",
+    "state": "Montana",
+    "averageWage": 50654.85586
+  },
+  {
+    "id": 54,
+    "race": "Black",
+    "state": "West Virginia",
+    "averageWage": 32819.67946
+  },
+  {
+    "id": 29,
+    "race": "Asian",
+    "state": "Missouri",
+    "averageWage": 72676.75
+  },
+  {
+    "id": 28,
+    "race": "Asian",
+    "state": "Mississippi",
+    "averageWage": 6078.580645
+  },
+  {
+    "id": 55,
+    "race": "Black",
+    "state": "Wisconsin",
+    "averageWage": 44752.26955
+  },
+  {
+    "id": 56,
+    "race": "Black",
+    "state": "Wyoming",
+    "averageWage": 106375.1844
+  },
+  {
+    "id": 27,
+    "race": "Asian",
+    "state": "Minnesota",
+    "averageWage": 116434.9755
+  },
+  {
+    "id": 72,
+    "race": "American Indian",
+    "state": "Puerto Rico",
+    "averageWage": 23909.09237
+  },
+  {
+    "id": 26,
+    "race": "Asian",
+    "state": "Michigan",
+    "averageWage": 94389.51803
+  },
+  {
+    "id": "01",
+    "race": "American Indian",
+    "state": "Alabama",
+    "averageWage": 14932.16848
+  },
+  {
+    "id": "02",
+    "race": "American Indian",
+    "state": "Alaska",
+    "averageWage": 93204.91935
+  },
+  {
+    "id": 25,
+    "race": "Asian",
+    "state": "Massachusetts",
+    "averageWage": 137600.3299
+  },
+  {
+    "id": "04",
+    "race": "American Indian",
+    "state": "Arizona",
+    "averageWage": 34674.05905
+  },
+  {
+    "id": 24,
+    "race": "Asian",
+    "state": "Maryland",
+    "averageWage": 123179.791
+  },
+  {
+    "id": "05",
+    "race": "American Indian",
+    "state": "Arkansas",
+    "averageWage": 27859.83278
+  },
+  {
+    "id": 23,
+    "race": "Asian",
+    "state": "Maine",
+    "averageWage": 124403.8863
+  },
+  {
+    "id": 22,
+    "race": "Asian",
+    "state": "Louisiana",
+    "averageWage": 71549.61023
+  },
+  {
+    "id": "06",
+    "race": "American Indian",
+    "state": "California",
+    "averageWage": 50616.10461
+  },
+  {
+    "id": 21,
+    "race": "Asian",
+    "state": "Kentucky",
+    "averageWage": 129422.6931
+  },
+  {
+    "id": "08",
+    "race": "American Indian",
+    "state": "Colorado",
+    "averageWage": 62279.22709
+  },
+  {
+    "id": 20,
+    "race": "Asian",
+    "state": "Kansas",
+    "averageWage": 91851.76023
+  },
+  {
+    "id": "09",
+    "race": "American Indian",
+    "state": "Connecticut",
+    "averageWage": 79021.56452
+  },
+  {
+    "id": 10,
+    "race": "American Indian",
+    "state": "Delaware",
+    "averageWage": 14050.68864
+  },
+  {
+    "id": 19,
+    "race": "Asian",
+    "state": "Iowa",
+    "averageWage": 75346.55391
+  },
+  {
+    "id": 18,
+    "race": "Asian",
+    "state": "Indiana",
+    "averageWage": 127139.1622
+  },
+  {
+    "id": 12,
+    "race": "American Indian",
+    "state": "Florida",
+    "averageWage": 49869.85849
+  },
+  {
+    "id": 17,
+    "race": "Asian",
+    "state": "Illinois",
+    "averageWage": 121640.789
+  },
+  {
+    "id": 13,
+    "race": "American Indian",
+    "state": "Georgia",
+    "averageWage": 27551.89544
+  },
+  {
+    "id": 15,
+    "race": "American Indian",
+    "state": "Hawaii",
+    "averageWage": 29785.05455
+  },
+  {
+    "id": 16,
+    "race": "Asian",
+    "state": "Idaho",
+    "averageWage": 2711.484848
+  },
+  {
+    "id": 15,
+    "race": "Asian",
+    "state": "Hawaii",
+    "averageWage": 75362.39245
+  },
+  {
+    "id": 16,
+    "race": "American Indian",
+    "state": "Idaho",
+    "averageWage": 43563.17251
+  },
+  {
+    "id": 13,
+    "race": "Asian",
+    "state": "Georgia",
+    "averageWage": 110483.6707
+  },
+  {
+    "id": 17,
+    "race": "American Indian",
+    "state": "Illinois",
+    "averageWage": 2026.1875
+  },
+  {
+    "id": 18,
+    "race": "American Indian",
+    "state": "Indiana",
+    "averageWage": 49873.32143
+  },
+  {
+    "id": 12,
+    "race": "Asian",
+    "state": "Florida",
+    "averageWage": 83903.01867
+  },
+  {
+    "id": 19,
+    "race": "American Indian",
+    "state": "Iowa",
+    "averageWage": 47615.56
+  },
+  {
+    "id": 11,
+    "race": "Asian",
+    "state": "District of Columbia",
+    "averageWage": 116611.4785
+  },
+  {
+    "id": 20,
+    "race": "American Indian",
+    "state": "Kansas",
+    "averageWage": 36081.84615
+  },
+  {
+    "id": 10,
+    "race": "Asian",
+    "state": "Delaware",
+    "averageWage": 93831.42979
+  },
+  {
+    "id": 21,
+    "race": "American Indian",
+    "state": "Kentucky",
+    "averageWage": 50654.85
+  },
+  {
+    "id": "09",
+    "race": "Asian",
+    "state": "Connecticut",
+    "averageWage": 106223.0523
+  },
+  {
+    "id": 22,
+    "race": "American Indian",
+    "state": "Louisiana",
+    "averageWage": 44420.40385
+  },
+  {
+    "id": "08",
+    "race": "Asian",
+    "state": "Colorado",
+    "averageWage": 110210.9825
+  },
+  {
+    "id": 23,
+    "race": "American Indian",
+    "state": "Maine",
+    "averageWage": 48628.66667
+  },
+  {
+    "id": "06",
+    "race": "Asian",
+    "state": "California",
+    "averageWage": 125657.9027
+  },
+  {
+    "id": 24,
+    "race": "American Indian",
+    "state": "Maryland",
+    "averageWage": 48628.65714
+  },
+  {
+    "id": 25,
+    "race": "American Indian",
+    "state": "Massachusetts",
+    "averageWage": 101309.6988
+  },
+  {
+    "id": "05",
+    "race": "Asian",
+    "state": "Arkansas",
+    "averageWage": 109406.624
+  },
+  {
+    "id": "04",
+    "race": "Asian",
+    "state": "Arizona",
+    "averageWage": 96140.39438
+  },
+  {
+    "id": 26,
+    "race": "American Indian",
+    "state": "Michigan",
+    "averageWage": 56255.3427
+  },
+  {
+    "id": "02",
+    "race": "Asian",
+    "state": "Alaska",
+    "averageWage": 81047.73333
+  },
+  {
+    "id": 27,
+    "race": "American Indian",
+    "state": "Minnesota",
+    "averageWage": 51042.8922
+  },
+  {
+    "id": "01",
+    "race": "Asian",
+    "state": "Alabama",
+    "averageWage": 226849.5473
+  },
+  {
+    "id": 28,
+    "race": "American Indian",
+    "state": "Mississippi",
+    "averageWage": 21523.96571
+  },
+  {
+    "id": 72,
+    "race": "Asian",
+    "state": "Puerto Rico",
+    "averageWage": 8282.701493
+  },
+  {
+    "id": 29,
+    "race": "American Indian",
+    "state": "Missouri",
+    "averageWage": 29896.29412
+  },
+  {
+    "id": 55,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Wisconsin",
+    "averageWage": 4457.62963
+  },
+  {
+    "id": 53,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Washington",
+    "averageWage": 96244.21429
+  },
+  {
+    "id": 51,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Virginia",
+    "averageWage": 70916.78846
+  },
+  {
+    "id": 30,
+    "race": "American Indian",
+    "state": "Montana",
+    "averageWage": 50180.31941
+  },
+  {
+    "id": 49,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Utah",
+    "averageWage": 5065.486726
+  },
+  {
+    "id": 48,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Texas",
+    "averageWage": 37687.21053
+  },
+  {
+    "id": 31,
+    "race": "American Indian",
+    "state": "Nebraska",
+    "averageWage": 62573.64216
+  },
+  {
+    "id": 47,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Tennessee",
+    "averageWage": 22288.13665
+  },
+  {
+    "id": 46,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "South Dakota",
+    "averageWage": 25327.42553
+  },
+  {
+    "id": 45,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "South Carolina",
+    "averageWage": 19248.8427
+  },
+  {
+    "id": 32,
+    "race": "American Indian",
+    "state": "Nevada",
+    "averageWage": 52681.05
+  },
+  {
+    "id": 33,
+    "race": "American Indian",
+    "state": "New Hampshire",
+    "averageWage": 24314.33088
+  },
+  {
+    "id": 42,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Pennsylvania",
+    "averageWage": 35458.39487
+  },
+  {
+    "id": 41,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Oregon",
+    "averageWage": 60785.82456
+  },
+  {
+    "id": 40,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Oklahoma",
+    "averageWage": 39510.78212
+  },
+  {
+    "id": 34,
+    "race": "American Indian",
+    "state": "New Jersey",
+    "averageWage": 70778.64394
+  },
+  {
+    "id": 39,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Ohio",
+    "averageWage": 26340.52128
+  },
+  {
+    "id": 38,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "North Dakota",
+    "averageWage": 91178.7265
+  },
+  {
+    "id": 37,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "North Carolina",
+    "averageWage": 53817.37347
+  },
+  {
+    "id": 35,
+    "race": "American Indian",
+    "state": "New Mexico",
+    "averageWage": 33745.03448
+  },
+  {
+    "id": 36,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "New York",
+    "averageWage": 52681.04255
+  },
+  {
+    "id": 35,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "New Mexico",
+    "averageWage": 18235.749
+  },
+  {
+    "id": 36,
+    "race": "American Indian",
+    "state": "New York",
+    "averageWage": 54242.90417
+  },
+  {
+    "id": 34,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "New Jersey",
+    "averageWage": 32419.10323
+  },
+  {
+    "id": 33,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "New Hampshire",
+    "averageWage": 1924.884615
+  },
+  {
+    "id": 32,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Nevada",
+    "averageWage": 13170.26351
+  },
+  {
+    "id": 31,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Nebraska",
+    "averageWage": 48628.71429
+  },
+  {
+    "id": 37,
+    "race": "American Indian",
+    "state": "North Carolina",
+    "averageWage": 34228.14078
+  },
+  {
+    "id": 29,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Missouri",
+    "averageWage": 2836.678571
+  },
+  {
+    "id": 28,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Mississippi",
+    "averageWage": 27291.26923
+  },
+  {
+    "id": 27,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Minnesota",
+    "averageWage": 5065.485981
+  },
+  {
+    "id": 26,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Michigan",
+    "averageWage": 16149.88471
+  },
+  {
+    "id": 38,
+    "race": "American Indian",
+    "state": "North Dakota",
+    "averageWage": 48628.65306
+  },
+  {
+    "id": 25,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Massachusetts",
+    "averageWage": 28974.58025
+  },
+  {
+    "id": 24,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Maryland",
+    "averageWage": 30392.90826
+  },
+  {
+    "id": 22,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Louisiana",
+    "averageWage": 8104.75
+  },
+  {
+    "id": 39,
+    "race": "American Indian",
+    "state": "Ohio",
+    "averageWage": 45589.37143
+  },
+  {
+    "id": 18,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Indiana",
+    "averageWage": 114479.9587
+  },
+  {
+    "id": 17,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Illinois",
+    "averageWage": 31239.04469
+  },
+  {
+    "id": 40,
+    "race": "American Indian",
+    "state": "Oklahoma",
+    "averageWage": 35058.81821
+  },
+  {
+    "id": 16,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Idaho",
+    "averageWage": 10130.97778
+  },
+  {
+    "id": 13,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Georgia",
+    "averageWage": 43563.16981
+  },
+  {
+    "id": 12,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Florida",
+    "averageWage": 1215.720721
+  },
+  {
+    "id": 41,
+    "race": "American Indian",
+    "state": "Oregon",
+    "averageWage": 72942.98851
+  },
+  {
+    "id": "08",
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Colorado",
+    "averageWage": 17706.4483
+  },
+  {
+    "id": 42,
+    "race": "American Indian",
+    "state": "Pennsylvania",
+    "averageWage": 9219.189189
+  },
+  {
+    "id": "06",
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "California",
+    "averageWage": 126637.1395
+  },
+  {
+    "id": 44,
+    "race": "American Indian",
+    "state": "Rhode Island",
+    "averageWage": 15205.35122
+  },
+  {
+    "id": "04",
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Arizona",
+    "averageWage": 43955.52601
+  },
+  {
+    "id": 45,
+    "race": "American Indian",
+    "state": "South Carolina",
+    "averageWage": 23047.94444
+  },
+  {
+    "id": "02",
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Alaska",
+    "averageWage": 1924.88601
+  },
+  {
+    "id": 46,
+    "race": "American Indian",
+    "state": "South Dakota",
+    "averageWage": 39190.28081
+  },
+  {
+    "id": 53,
+    "race": "Alaska Native",
+    "state": "Washington",
+    "averageWage": 60785.81667
+  },
+  {
+    "id": 41,
+    "race": "Alaska Native",
+    "state": "Oregon",
+    "averageWage": 16209.55682
+  },
+  {
+    "id": 37,
+    "race": "Alaska Native",
+    "state": "North Carolina",
+    "averageWage": 7395.603175
+  },
+  {
+    "id": 47,
+    "race": "American Indian",
+    "state": "Tennessee",
+    "averageWage": 53694.125
+  },
+  {
+    "id": 36,
+    "race": "Alaska Native",
+    "state": "New York",
+    "averageWage": 19046.22018
+  },
+  {
+    "id": 29,
+    "race": "Alaska Native",
+    "state": "Missouri",
+    "averageWage": 30798.15172
+  },
+  {
+    "id": 24,
+    "race": "Alaska Native",
+    "state": "Maryland",
+    "averageWage": 40523.88372
+  },
+  {
+    "id": 12,
+    "race": "Alaska Native",
+    "state": "Florida",
+    "averageWage": 6078.581781
+  },
+  {
+    "id": "08",
+    "race": "Alaska Native",
+    "state": "Colorado",
+    "averageWage": 65851.3125
+  },
+  {
+    "id": "04",
+    "race": "Alaska Native",
+    "state": "Arizona",
+    "averageWage": 15095.14876
+  },
+  {
+    "id": 48,
+    "race": "American Indian",
+    "state": "Texas",
+    "averageWage": 44268.63106
+  },
+  {
+    "id": "02",
+    "race": "Alaska Native",
+    "state": "Alaska",
+    "averageWage": 61514.18211
+  },
+  {
+    "id": 56,
+    "race": "American Indian",
+    "state": "Wyoming",
+    "averageWage": 35569.66474
+  },
+  {
+    "id": 49,
+    "race": "American Indian",
+    "state": "Utah",
+    "averageWage": 46857.3535
+  },
+  {
+    "id": 55,
+    "race": "American Indian",
+    "state": "Wisconsin",
+    "averageWage": 52785.14787
+  },
+  {
+    "id": 53,
+    "race": "American Indian",
+    "state": "Washington",
+    "averageWage": 143133.4361
+  },
+  {
+    "id": 51,
+    "race": "American Indian",
+    "state": "Virginia",
+    "averageWage": 35893.58128
+  },
+  {
+    "id": 34,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "New Jersey",
+    "averageWage": ""
+  },
+  {
+    "id": 31,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Nebraska",
+    "averageWage": ""
+  },
+  {
+    "id": 27,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Minnesota",
+    "averageWage": ""
+  },
+  {
+    "id": 19,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Iowa",
+    "averageWage": ""
+  },
+  {
+    "id": 18,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Indiana",
+    "averageWage": ""
+  },
+  {
+    "id": "05",
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Arkansas",
+    "averageWage": ""
+  },
+  {
+    "id": 54,
+    "race": "Asian",
+    "state": "West Virginia",
+    "averageWage": ""
+  },
+  {
+    "id": 44,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Rhode Island",
+    "averageWage": ""
+  },
+  {
+    "id": 30,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Montana",
+    "averageWage": ""
+  },
+  {
+    "id": 21,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Kentucky",
+    "averageWage": ""
+  },
+  {
+    "id": 20,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Kansas",
+    "averageWage": ""
+  },
+  {
+    "id": 15,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Hawaii",
+    "averageWage": ""
+  },
+  {
+    "id": 10,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Delaware",
+    "averageWage": ""
+  },
+  {
+    "id": 55,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Wisconsin",
+    "averageWage": ""
+  },
+  {
+    "id": "05",
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Arkansas",
+    "averageWage": ""
+  },
+  {
+    "id": 32,
+    "race": "Alaska Native",
+    "state": "Nevada",
+    "averageWage": ""
+  },
+  {
+    "id": 13,
+    "race": "Alaska Native",
+    "state": "Georgia",
+    "averageWage": ""
+  },
+  {
+    "id": "06",
+    "race": "Alaska Native",
+    "state": "California",
+    "averageWage": ""
+  },
+  {
+    "id": 44,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Rhode Island",
+    "averageWage": ""
+  },
+  {
+    "id": 42,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Pennsylvania",
+    "averageWage": ""
+  },
+  {
+    "id": 17,
+    "race": "Alaska Native",
+    "state": "Illinois",
+    "averageWage": ""
+  },
+  {
+    "id": 25,
+    "race": "Alaska Native",
+    "state": "Massachusetts",
+    "averageWage": ""
+  },
+  {
+    "id": 26,
+    "race": "Alaska Native",
+    "state": "Michigan",
+    "averageWage": ""
+  },
+  {
+    "id": 48,
+    "race": "Alaska Native",
+    "state": "Texas",
+    "averageWage": ""
+  },
+  {
+    "id": 55,
+    "race": "Alaska Native",
+    "state": "Wisconsin",
+    "averageWage": ""
+  },
+  {
+    "id": 72,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Puerto Rico",
+    "averageWage": ""
+  },
+  {
+    "id": "01",
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Alabama",
+    "averageWage": ""
+  },
+  {
+    "id": "09",
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Connecticut",
+    "averageWage": ""
+  },
+  {
+    "id": 11,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "District of Columbia",
+    "averageWage": ""
+  },
+  {
+    "id": "09",
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Connecticut",
+    "averageWage": ""
+  },
+  {
+    "id": 16,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Idaho",
+    "averageWage": ""
+  },
+  {
+    "id": 40,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Oklahoma",
+    "averageWage": ""
+  },
+  {
+    "id": 50,
+    "race": "American Indian",
+    "state": "Vermont",
+    "averageWage": ""
+  },
+  {
+    "id": 28,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Mississippi",
+    "averageWage": ""
+  },
+  {
+    "id": 40,
+    "race": "Alaska Native",
+    "state": "Oklahoma",
+    "averageWage": ""
+  },
+  {
+    "id": 56,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Wyoming",
+    "averageWage": ""
+  },
+  {
+    "id": 54,
+    "race": "American Indian",
+    "state": "West Virginia",
+    "averageWage": ""
+  },
+  {
+    "id": 50,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Vermont",
+    "averageWage": ""
+  },
+  {
+    "id": 10,
+    "race": "Native Hawaiian and Other Pacific Islander",
+    "state": "Delaware",
+    "averageWage": ""
+  },
+  {
+    "id": 19,
+    "race": "American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",
+    "state": "Iowa",
+    "averageWage": ""
+  },
+  {
+    "id": 51,
+    "race": "Alaska Native",
+    "state": "Virginia",
+    "averageWage": ""
+  },
+  {
+    "id": 50,
+    "race": "Alaska Native",
+    "state": "Vermont",
+    "averageWage": ""
+  }
+]
